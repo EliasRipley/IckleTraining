@@ -1,0 +1,114 @@
+{
+  "word_definitions": [
+    {
+      "word": "happy",
+      "definition": "feeling or showing pleasure or contentment",
+      "context": [
+        "She was happy to see her friends.",
+        "The happy children played in the park.",
+        "Being happy makes life more enjoyable.",
+        "What makes you feel happy?"
+      ],
+      "synonyms": [
+        "joyful",
+        "pleased",
+        "content",
+        "cheerful"
+      ],
+      "antonyms": [
+        "sad",
+        "unhappy",
+        "miserable"
+      ]
+    },
+    {
+      "word": "learn",
+      "definition": "gain knowledge or skills through experience, study, or teaching",
+      "context": [
+        "I want to learn how to code.",
+        "Children learn quickly through play.",
+        "To learn effectively, practice regularly.",
+        "What did you learn today?"
+      ],
+      "synonyms": [
+        "study",
+        "acquire",
+        "master",
+        "understand"
+      ],
+      "antonyms": [
+        "forget",
+        "ignore",
+        "misunderstand"
+      ]
+    },
+    {
+      "word": "computer",
+      "definition": "electronic device for processing and storing data",
+      "context": [
+        "I use my computer for work every day.",
+        "The computer processes information quickly.",
+        "Learning computer skills is important.",
+        "My computer needs more memory."
+      ],
+      "synonyms": [
+        "PC",
+        "laptop",
+        "device",
+        "machine"
+      ],
+      "antonyms": []
+    }
+  ],
+  "context_patterns": [
+    {
+      "pattern": "greeting + question",
+      "examples": [
+        "Hello, how are you?",
+        "Hi, what's new?",
+        "Good morning, how did you sleep?",
+        "Hey, what are you up to?"
+      ]
+    },
+    {
+      "pattern": "request + politeness",
+      "examples": [
+        "Could you please help me?",
+        "Would you mind assisting me?",
+        "I would appreciate your help.",
+        "Please can you show me how?"
+      ]
+    },
+    {
+      "pattern": "problem + solution",
+      "examples": [
+        "I'm stuck on this problem. Can you help?",
+        "This isn't working. What should I try?",
+        "I need to fix this. Any suggestions?",
+        "Something went wrong. How do I solve it?"
+      ]
+    }
+  ],
+  "common_sense_reasoning": [
+    {
+      "scenario": "weather + clothing",
+      "logic": "When it rains, people use umbrellas and wear raincoats.",
+      "examples": [
+        "It's raining, so I should take an umbrella.",
+        "If it's cold outside, wear a warm jacket.",
+        "Sunny weather means sunglasses might be needed.",
+        "Snow requires warm boots and heavy coat."
+      ]
+    },
+    {
+      "scenario": "time + actions",
+      "logic": "Morning is for starting activities, evening for winding down.",
+      "examples": [
+        "I drink coffee in the morning to wake up.",
+        "People usually eat dinner in the evening.",
+        "Lunch happens around midday.",
+        "Late at night, most people are sleeping."
+      ]
+    }
+  ]
+}
