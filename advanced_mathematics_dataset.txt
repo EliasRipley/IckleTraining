@@ -1,0 +1,2148 @@
+Triangle area: base 8, height 8. Answer: 32
+If a car travels at 68 mph for 5 hours, how far does it travel? 340 miles
+Solve 4x + 4y = 28 and 2x + 3y = 18 for x. Answer: x = 3
+Solve 3x + 5y = 24 and 2x + 5y = 21 for x. Answer: x = 3
+What is 25 ÷ 5? 5
+What is 30% of 231? 69
+What is 24 ÷ 8? 3 R 0
+Car speed: 63 mph, time: 5 hours. Distance: 315 miles
+What is the GCD of 41 and 43? 1
+Calculate 11 + 10 × 4. Answer: 51
+If a car travels at 39 mph for 3 hours, how far does it travel? 117 miles
+What is 19 + 17 × 14? 257
+Triangle area: base 19, height 15. Answer: 142
+What is x in 7x + 7 = 21? 2
+What is the derivative of 5x^1? 5
+If something is divided in ratio 5:3 and total is 24, what is the first part? 15
+Find the area of a circle radius 12. Answer: 452.39
+Solve 8x + 12 = 28. Answer: x = 2
+What is 7/5 + 7/10? 105/50
+Solve 9x + 10 = 82. Answer: x = 8
+If a car travels at 74 mph for 3 hours, how far does it travel? 222 miles
+Solve 10x + 5 = 105. Answer: x = 10
+Divide 37 by 3. Answer: 12 remainder 1
+Find the area of a circle radius 6. Answer: 113.1
+Add 3/4 and 5/8. Answer: 44/32
+Find the perimeter of a rectangle 20 by 18. Answer: 76
+d/dx(4x^2 + 3x^3 + 1) = 8x + 9x^2
+d/dx(4x^4) = 16x^3
+What is the GCD of 42 and 42? 42
+What is x in 6x + 11 = 53? 7
+Ratio 4:2, total 36. First part: 24
+What is 13% of 325? 42
+Divide 27 by 7. Answer: 3 remainder 6
+What are the factors of 32? [1, 2, 4, 8, 16, 32]
+What is 4/6 + 3/9? 54/54
+d/dx(5x^3 + 3) = 15x^2
+What is 11% of 282? 31
+If something is divided in ratio 2:5 and total is 45, what is the first part? 12
+What is the derivative of 2x^3 + 2x? 6x^2 + 2
+Differentiate 4x^2. Answer: 8x
+What is 7/8 + 6/2? 62/16
+Is 23 prime? True
+Solve 5x + 3y = 30 and 3x + 5y = 34 for x. Answer: x = 3
+Triangle area: base 16, height 18. Answer: 144
+Solve 2x + 15 = 19. Answer: x = 2
+Calculate 41% of 264. Answer: 108
+What is 71 ÷ 7? 10 R 1
+Find GCD(47, 44). Answer: 1
+What is the derivative of 3x^2 + 1x? 6x + 1
+Solve 9x + 18 = 36. Answer: x = 2
+Differentiate 5x^4. Answer: 20x^3
+What is the area of a rectangle with length 16 and width 19? 304
+If something is divided in ratio 2:4 and total is 38, what is the first part? 12
+What is 14% of 364? 50
+Ratio 5:4, total 31. First part: 17
+What is the area of a triangle with base 12 and height 5? 30
+If 4x + 18 = 54, then x = 9
+Find GCD(32, 14). Answer: 2
+Car speed: 53 mph, time: 3 hours. Distance: 159 miles
+Divide 20 by 6. Answer: 3 remainder 2
+What is 5/5 + 2/2? 20/10
+d/dx(5x^4) = 20x^3
+Find the perimeter of a rectangle 19 by 13. Answer: 64
+Find the area of a circle radius 11. Answer: 380.13
+d/dx(1 + 2x^3) = 6x^2
+Solve 5x + 4y = 25 and 3x + 3y = 18 for x. Answer: x = 1
+What is the area of a triangle with base 9 and height 8? 36
+Ratio 5:3, total 28. First part: 17
+If 3x + 13 = 16, then x = 1
+What is the derivative of 4x^2? 8x
+What is 39 ÷ 6? 6 R 3
+Triangle area: base 5, height 8. Answer: 20
+What are the factors of 26? [1, 2, 13, 26]
+Car speed: 37 mph, time: 3 hours. Distance: 111 miles
+Solve 2x + 5y = 13 and 2x + 4y = 12 for x. Answer: x = 4
+Find x: 2x + 2y = 10, 4x + 2y = 18. x = 4
+d/dx(2x + 1x^2 + 3x^2) = 2 + 2x + 6x
+d/dx(1x^2 + 2x) = 2x + 2
+Differentiate 3x^4. Answer: 12x^3
+Find x: 5x + 4y = 29, 3x + 2y = 17. x = 5
+Triangle area: base 16, height 12. Answer: 96
+What is x in 2x + 15 = 19? 2
+Add 3/7 and 2/10. Answer: 44/70
+What is 48% of 225? 108
+Divide 92 by 2. Answer: 46 remainder 0
+Find GCD(16, 14). Answer: 2
+Is 16 prime? False
+What is 10% of 455? 45
+What is x in 4x + 11 = 47? 9
+Find GCD(17, 19). Answer: 1
+What is the area of a rectangle with length 12 and width 11? 132
+If 2x + 8 = 14, then x = 3
+What is the GCD of 29 and 41? 1
+Find the area of a circle radius 12. Answer: 452.39
+If 9x + 17 = 80, then x = 7
+Divide 33 by 2. Answer: 16 remainder 1
+What is 11% of 426? 46
+Add 7/5 and 7/10. Answer: 105/50
+What is 7 + 3 × 16? 55
+What is x in 4x + 15 = 55? 10
+Add 4/9 and 1/9. Answer: 45/81
+Find x: 5x + 2y = 7, 4x + 3y = 7. x = 1
+If 4x + 7 = 27, then x = 5
+Add 8/2 and 6/5. Answer: 52/10
+d/dx(5x^2) = 10x
+If 5x + 15 = 20, then x = 1
+Is 47 prime? True
+Find the perimeter of a rectangle 15 by 13. Answer: 56
+What is the derivative of 2x^4? 8x^3
+d/dx(2x^3 + 3 + 4x^3) = 6x^2 + 12x^2
+Find the area of a circle radius 11. Answer: 380.13
+Solve 2x + 3y = 9 and 2x + 2y = 8 for x. Answer: x = 3
+Divide 62 by 4. Answer: 15 remainder 2
+What is 1 + 7 × 2? 15
+What is the circumference of a circle with radius 11? 69.12
+If 3x + 18 = 33, then x = 5
+What is 7 × 4 + 12? 40
+Calculate 14% of 323. Answer: 45
+d/dx(1x^2) = 2x
+What is 1/5 + 5/5? 30/25
+Triangle area: base 20, height 16. Answer: 160
+What is 15% of 283? 42
+Find GCD(39, 48). Answer: 3
+Solve 3x + 5y = 20 and 5x + 5y = 30 for x. Answer: x = 5
+Find x: 5x + 5y = 30, 5x + 4y = 27. x = 3
+Triangle area: base 12, height 11. Answer: 66
+What is 1 + 7 × 12? 85
+What are the factors of 38? [1, 2, 19, 38]
+What is 9/8 + 6/10? 138/80
+What is the circumference of a circle with radius 6? 37.7
+What is the derivative of 5x^3? 15x^2
+What is 7/5 + 3/10? 85/50
+Triangle area: base 14, height 15. Answer: 105
+List all factors of 13. Answer: [1, 13]
+d/dx(2x^2) = 4x
+If 9x + 14 = 86, then x = 8
+Divide 42 by 10. Answer: 4 remainder 2
+What is the derivative of 4x^2 + 2x^3 + 5x^3? 8x + 6x^2 + 15x^2
+Differentiate 4x^4. Answer: 16x^3
+Solve 5x + 1 = 11. Answer: x = 2
+Find x: 4x + 5y = 36, 4x + 2y = 24. x = 4
+What is 7/9 + 8/6? 114/54
+Divide 82 by 3. Answer: 27 remainder 1
+What is x in 9x + 15 = 60? 5
+Solve 7x + 20 = 27. Answer: x = 1
+What is 1/4 + 6/8? 32/32
+What is 3 + 15 × 14? 213
+If something is divided in ratio 3:2 and total is 30, what is the first part? 18
+Divide 26 by 2. Answer: 13 remainder 0
+What is 14 × 12 + 16? 184
+Find the perimeter of a rectangle 5 by 12. Answer: 34
+What is 10 + 8 × 7? 66
+Find GCD(36, 17). Answer: 1
+What are the factors of 35? [1, 5, 7, 35]
+What is x in 2x + 4 = 16? 6
+What is x in 10x + 18 = 28? 1
+Find x: 5x + 2y = 16, 4x + 3y = 17. x = 2
+Solve 5x + 5y = 30 and 2x + 4y = 14 for x. Answer: x = 5
+What is the area of a triangle with base 7 and height 19? 66
+Solve 3x + 2y = 13 and 5x + 3y = 21 for x. Answer: x = 3
+What is the area of a triangle with base 15 and height 16? 120
+What is the GCD of 10 and 29? 1
+Solve 3x + 4 = 19. Answer: x = 5
+Car speed: 59 mph, time: 4 hours. Distance: 236 miles
+Solve 5x + 2 = 7. Answer: x = 1
+Solve 3x + 2y = 17 and 5x + 3y = 27 for x. Answer: x = 3
+What is the derivative of 1x^2? 2x
+What is the derivative of 4x + 1x^3 + 4x^3? 4 + 3x^2 + 12x^2
+What is x in 7x + 12 = 75? 9
+Solve 4x + 2y = 14 and 2x + 3y = 9 for x. Answer: x = 3
+Is 23 prime? True
+Compute 10 × 6 + 15. 75
+d/dx(5x^4) = 20x^3
+What is 8/7 + 3/7? 77/49
+Is 28 prime? False
+What is the area of a triangle with base 7 and height 19? 66
+What is 20 ÷ 5? 4 R 0
+Car speed: 56 mph, time: 6 hours. Distance: 336 miles
+d/dx(5x + 1x^3 + 1) = 5 + 3x^2
+Divide 95 by 4. Answer: 23 remainder 3
+If 2x + 3 = 13, then x = 5
+What is 2/10 + 3/8? 46/80
+Solve 5x + 3y = 32 and 4x + 5y = 36 for x. Answer: x = 4
+Is 28 prime? False
+Ratio 3:3, total 32. First part: 16
+What is the circumference of a circle with radius 3? 18.85
+Solve 3x + 3y = 18 and 4x + 5y = 29 for x. Answer: x = 1
+What is the area of a rectangle with length 7 and width 6? 42
+What is 53 ÷ 3? 17 R 2
+Car speed: 63 mph, time: 3 hours. Distance: 189 miles
+Differentiate 2x^4. Answer: 8x^3
+What is 40% of 229? 91
+Add 4/2 and 6/9. Answer: 48/18
+Find x: 4x + 2y = 18, 4x + 3y = 19. x = 4
+List all factors of 26. Answer: [1, 2, 13, 26]
+What is x in 2x + 14 = 34? 10
+d/dx(3x + 5x) = 3 + 5
+Solve 2x + 19 = 39. Answer: x = 10
+Car speed: 73 mph, time: 5 hours. Distance: 365 miles
+Ratio 3:2, total 30. First part: 18
+What is x in 2x + 8 = 14? 3
+Differentiate 1x^2. Answer: 2x
+What is 6/3 + 7/10? 81/30
+What is 49 ÷ 6? 8 R 1
+Find x: 2x + 3y = 22, 3x + 4y = 31. x = 5
+What are the factors of 50? [1, 2, 5, 10, 25, 50]
+d/dx(4x^2) = 8x
+Add 6/2 and 6/2. Answer: 24/4
+Car speed: 72 mph, time: 3 hours. Distance: 216 miles
+Find x: 4x + 4y = 28, 3x + 2y = 17. x = 3
+Calculate 4 + 14 × 10. Answer: 144
+What is 67 ÷ 9? 7 R 4
+Find x: 3x + 3y = 9, 2x + 4y = 10. x = 1
+Solve 2x + 4y = 16 and 2x + 3y = 13 for x. Answer: x = 2
+What is the derivative of 3x^2? 6x
+What is the circumference of a circle with radius 11? 69.12
+What is the circumference of a circle with radius 6? 37.7
+Add 2/7 and 9/5. Answer: 73/35
+Car speed: 51 mph, time: 3 hours. Distance: 153 miles
+Solve 10x + 18 = 28. Answer: x = 1
+If 5x + 6 = 56, then x = 10
+What is the GCD of 44 and 34? 2
+What is 15 ÷ 3? 5
+What is the area of a triangle with base 16 and height 18? 144
+Calculate 8 + 19 × 1. Answer: 27
+d/dx(5x^2 + 4x^3) = 10x + 12x^2
+List all factors of 13. Answer: [1, 13]
+d/dx(4x^2) = 8x
+What is the area of a triangle with base 7 and height 12? 42
+What is the derivative of 1x^2 + 1? 2x
+Find GCD(32, 26). Answer: 2
+Add 7/9 and 8/6. Answer: 114/54
+Solve 4x + 3y = 7 and 3x + 5y = 8 for x. Answer: x = 1
+What is the area of a triangle with base 11 and height 18? 99
+If 9x + 6 = 51, then x = 5
+Calculate 30% of 231. Answer: 69
+What is x in 9x + 14 = 86? 8
+Calculate 43% of 391. Answer: 168
+Find x: 2x + 4y = 28, 2x + 5y = 33. x = 4
+What is the area of a rectangle with length 5 and width 19? 95
+What is x in 3x + 5 = 20? 5
+Add 6/9 and 7/9. Answer: 117/81
+What is x in 5x + 2 = 37? 7
+What are the factors of 26? [1, 2, 13, 26]
+What is the area of a triangle with base 20 and height 14? 140
+If a car travels at 63 mph for 3 hours, how far does it travel? 189 miles
+What is 2/6 + 3/10? 38/60
+What is x in 8x + 1 = 9? 1
+What is the circumference of a circle with radius 3? 18.85
+Find the area of a circle radius 10. Answer: 314.16
+What is 67 ÷ 9? 7 R 4
+What is x in 10x + 13 = 73? 6
+Solve 4x + 3y = 17 and 2x + 2y = 10 for x. Answer: x = 2
+If 2x + 20 = 26, then x = 3
+d/dx(4 + 2x + 1) = 2
+Differentiate 5x^3. Answer: 15x^2
+What is x in 3x + 11 = 23? 4
+If a car travels at 40 mph for 6 hours, how far does it travel? 240 miles
+Differentiate 1x^4. Answer: 4x^3
+Calculate 3 + 15 × 14. Answer: 213
+What is 20 + 18 × 1? 38
+Is 30 prime? False
+Divide 76 by 10. Answer: 7 remainder 6
+d/dx(5x^1) = 5
+Triangle area: base 7, height 15. Answer: 52
+What is x in 8x + 2 = 42? 5
+What is x in 5x + 16 = 36? 4
+What is the area of a triangle with base 9 and height 20? 90
+Solve 3x + 16 = 31. Answer: x = 5
+What are the factors of 17? [1, 17]
+Car speed: 62 mph, time: 6 hours. Distance: 372 miles
+What are the factors of 12? [1, 2, 3, 4, 6, 12]
+d/dx(5x^4) = 20x^3
+What is 9/6 + 8/9? 129/54
+Solve 8x + 14 = 38. Answer: x = 3
+Find x: 2x + 3y = 5, 4x + 4y = 8. x = 1
+Find x: 3x + 2y = 8, 2x + 4y = 8. x = 2
+What is 35 ÷ 10? 3 R 5
+Find x: 5x + 3y = 17, 3x + 3y = 15. x = 1
+What is x in 3x + 13 = 16? 1
+Divide 98 by 6. Answer: 16 remainder 2
+List all factors of 43. Answer: [1, 43]
+Calculate 13% of 325. Answer: 42
+If 8x + 4 = 36, then x = 4
+d/dx(3x^2 + 1x) = 6x + 1
+If 4x + 2 = 22, then x = 5
+What is the area of a rectangle with length 7 and width 5? 35
+What is 78 ÷ 5? 15 R 3
+Divide 68 by 5. Answer: 13 remainder 3
+Find the perimeter of a rectangle 7 by 15. Answer: 44
+Differentiate 1x^1. Answer: 1
+What are the factors of 24? [1, 2, 3, 4, 6, 8, 12, 24]
+If something is divided in ratio 4:4 and total is 21, what is the first part? 10
+If 7x + 9 = 16, then x = 1
+What is x in 5x + 16 = 36? 4
+Triangle area: base 6, height 19. Answer: 57
+Solve 2x + 5y = 35 and 3x + 4y = 35 for x. Answer: x = 5
+If something is divided in ratio 5:4 and total is 31, what is the first part? 17
+Is 14 prime? False
+Is 17 prime? True
+What is x in 10x + 5 = 105? 10
+What is the area of a rectangle with length 20 and width 19? 380
+What is 14 + 17 × 13? 235
+Is 25 prime? False
+Find GCD(22, 18). Answer: 2
+Solve 3x + 18 = 45. Answer: x = 9
+What is 19 + 6 × 4? 43
+Ratio 3:4, total 44. First part: 18
+Ratio 4:4, total 21. First part: 10
+Calculate 26% of 288. Answer: 74
+What is the derivative of 4 + 2x + 1? 2
+If something is divided in ratio 4:2 and total is 36, what is the first part? 24
+What is 43% of 391? 168
+Is 43 prime? True
+What is 92 ÷ 2? 46 R 0
+What is the derivative of 3 + 5x^2? 10x
+Solve 3x + 6 = 24. Answer: x = 6
+Is 37 prime? True
+What is 9/3 + 3/7? 72/21
+Triangle area: base 13, height 8. Answer: 52
+Calculate 19 + 17 × 14. Answer: 257
+Solve 5x + 2y = 7 and 4x + 3y = 7 for x. Answer: x = 1
+What are the factors of 21? [1, 3, 7, 21]
+If a car travels at 68 mph for 2 hours, how far does it travel? 136 miles
+Find the area of a circle radius 7. Answer: 153.94
+d/dx(2x^1) = 2
+Find the area of a circle radius 12. Answer: 452.39
+If a car travels at 63 mph for 2 hours, how far does it travel? 126 miles
+Is 7 prime? True
+What is the GCD of 36 and 17? 1
+Triangle area: base 6, height 6. Answer: 18
+What is 59 ÷ 5? 11 R 4
+What is the GCD of 50 and 20? 10
+What is 1/3 + 8/10? 34/30
+Ratio 4:2, total 32. First part: 21
+d/dx(5x^3 + 3x) = 15x^2 + 3
+If 7x + 20 = 69, then x = 7
+What is the derivative of 1x^2? 2x
+What is the derivative of 4x^4? 16x^3
+What is x in 9x + 3 = 12? 1
+Find x: 5x + 4y = 9, 3x + 3y = 6. x = 1
+What is 4 + 4? 8
+Find the perimeter of a rectangle 19 by 16. Answer: 70
+Calculate 10 + 6 × 4. Answer: 34
+Solve 2x + 5y = 15 and 2x + 4y = 14 for x. Answer: x = 5
+What is 12 × 17 + 20? 224
+Add 9/6 and 8/9. Answer: 129/54
+Is 29 prime? True
+Car speed: 44 mph, time: 6 hours. Distance: 264 miles
+Find the perimeter of a rectangle 12 by 10. Answer: 44
+Find the area of a circle radius 11. Answer: 380.13
+What is the derivative of 5x^3? 15x^2
+Is 12 prime? False
+List all factors of 13. Answer: [1, 13]
+Find x: 5x + 2y = 28, 3x + 3y = 24. x = 4
+What is 2 + 14 × 10? 142
+If something is divided in ratio 3:5 and total is 40, what is the first part? 15
+Divide 86 by 5. Answer: 17 remainder 1
+Compute 19 × 7 + 17. 150
+Add 7/2 and 9/8. Answer: 74/16
+What is the derivative of 3x^4? 12x^3
+What is the GCD of 44 and 10? 2
+Triangle area: base 7, height 12. Answer: 42
+Calculate 20 + 8 × 20. Answer: 180
+Divide 55 by 6. Answer: 9 remainder 1
+What is x in 8x + 3 = 75? 9
+What is x in 8x + 1 = 57? 7
+What is the circumference of a circle with radius 6? 37.7
+Solve 10x + 15 = 25. Answer: x = 1
+Find the area of a circle radius 3. Answer: 28.27
+What is the area of a rectangle with length 15 and width 18? 270
+Solve 2x + 3y = 15 and 4x + 3y = 21 for x. Answer: x = 3
+Find x: 5x + 4y = 22, 3x + 3y = 15. x = 2
+What is the area of a rectangle with length 6 and width 17? 102
+What is 9/6 + 2/4? 48/24
+What is the area of a rectangle with length 15 and width 13? 195
+What is x in 8x + 20 = 100? 10
+Car speed: 44 mph, time: 4 hours. Distance: 176 miles
+Divide 67 by 9. Answer: 7 remainder 4
+If 5x + 2 = 37, then x = 7
+Divide 86 by 3. Answer: 28 remainder 2
+Ratio 5:2, total 26. First part: 18
+Calculate 17 + 11 × 8. Answer: 105
+What is the circumference of a circle with radius 3? 18.85
+What is 19 × 7 + 17? 150
+Find the area of a circle radius 10. Answer: 314.16
+d/dx(1x^3) = 3x^2
+Find x: 2x + 5y = 35, 3x + 4y = 35. x = 5
+Is 3 prime? True
+What is x in 7x + 17 = 66? 7
+What are the factors of 10? [1, 2, 5, 10]
+What is 9/4 + 6/9? 105/36
+d/dx(2 + 2x) = 2
+List all factors of 45. Answer: [1, 3, 5, 9, 15, 45]
+Find the perimeter of a rectangle 14 by 7. Answer: 42
+What is the GCD of 39 and 34? 1
+Find the perimeter of a rectangle 12 by 13. Answer: 50
+What is the derivative of 2 + 4x? 4
+What is 9/8 + 8/2? 82/16
+Find the perimeter of a rectangle 19 by 12. Answer: 62
+If 4x + 15 = 55, then x = 10
+If a car travels at 58 mph for 5 hours, how far does it travel? 290 miles
+d/dx(5x + 1x^3 + 5) = 5 + 3x^2
+Car speed: 56 mph, time: 4 hours. Distance: 224 miles
+Find the perimeter of a rectangle 15 by 13. Answer: 56
+If something is divided in ratio 4:2 and total is 48, what is the first part? 32
+Solve 2x + 4y = 28 and 2x + 5y = 33 for x. Answer: x = 4
+d/dx(4 + 1x^3 + 2x^3) = 3x^2 + 6x^2
+Find the perimeter of a rectangle 11 by 19. Answer: 60
+Calculate 1 + 7 × 2. Answer: 15
+What are the factors of 12? [1, 2, 3, 4, 6, 12]
+d/dx(2 + 4x) = 4
+If something is divided in ratio 3:2 and total is 48, what is the first part? 28
+d/dx(2x^4) = 8x^3
+Is 9 prime? False
+What is 16% of 348? 55
+Triangle area: base 9, height 11. Answer: 49
+Add 5/3 and 3/4. Answer: 29/12
+List all factors of 22. Answer: [1, 2, 11, 22]
+If something is divided in ratio 2:4 and total is 21, what is the first part? 7
+d/dx(1x^2) = 2x
+What is 58 ÷ 2? 29 R 0
+What is 11 + 10 × 4? 51
+Divide 23 by 2. Answer: 11 remainder 1
+Find x: 4x + 5y = 13, 3x + 5y = 11. x = 2
+Add 8/10 and 3/4. Answer: 62/40
+What is 43 ÷ 7? 6 R 1
+Differentiate 1x^3. Answer: 3x^2
+If 3x + 4 = 19, then x = 5
+Divide 40 by 7. Answer: 5 remainder 5
+If 7x + 12 = 68, then x = 8
+Divide 20 by 7. Answer: 2 remainder 6
+What is the circumference of a circle with radius 3? 18.85
+What is the area of a rectangle with length 20 and width 17? 340
+Find the perimeter of a rectangle 8 by 17. Answer: 50
+List all factors of 38. Answer: [1, 2, 19, 38]
+What is 10 - 2? 8
+Solve 5x + 4y = 29 and 3x + 2y = 17 for x. Answer: x = 5
+If something is divided in ratio 2:2 and total is 28, what is the first part? 14
+What is x in 9x + 6 = 51? 5
+What is 66 ÷ 5? 13 R 1
+What is the derivative of 4x^2 + 3x^3 + 1? 8x + 9x^2
+What is x in 5x + 2 = 7? 1
+What is 28% of 372? 104
+Divide 52 by 4. Answer: 13 remainder 0
+Calculate 40% of 229. Answer: 91
+What is the circumference of a circle with radius 5? 31.42
+What is the derivative of 3 + 4x^2 + 4x^2? 8x + 8x
+What is the derivative of 4x^3 + 2x^3? 12x^2 + 6x^2
+What is 17 + 11 × 8? 105
+Solve 5x + 16 = 56. Answer: x = 8
+Is 41 prime? True
+If a car travels at 63 mph for 3 hours, how far does it travel? 189 miles
+Car speed: 37 mph, time: 3 hours. Distance: 111 miles
+What is 3/4 + 5/8? 44/32
+Ratio 3:3, total 21. First part: 10
+What is 19% of 113? 21
+If 7x + 4 = 53, then x = 7
+Divide 42 by 8. Answer: 5 remainder 2
+What is x in 8x + 14 = 38? 3
+What is the area of a rectangle with length 12 and width 13? 156
+d/dx(1x^2) = 2x
+If a car travels at 78 mph for 5 hours, how far does it travel? 390 miles
+Find GCD(13, 32). Answer: 1
+d/dx(3x^2) = 6x
+What is the circumference of a circle with radius 7? 43.98
+Is 47 prime? True
+What is 14 + 2 × 19? 52
+Is 37 prime? True
+Calculate 22% of 159. Answer: 34
+Car speed: 61 mph, time: 1 hours. Distance: 61 miles
+Add 7/9 and 8/8. Answer: 128/72
+List all factors of 15. Answer: [1, 3, 5, 15]
+d/dx(5x^3 + 4x^3 + 4x^3) = 15x^2 + 12x^2 + 12x^2
+Differentiate 3x^1. Answer: 3
+Differentiate 5x^3. Answer: 15x^2
+If something is divided in ratio 2:3 and total is 30, what is the first part? 12
+Car speed: 37 mph, time: 2 hours. Distance: 74 miles
+Calculate 23% of 278. Answer: 63
+What is the area of a rectangle with length 19 and width 12? 228
+Solve 2x + 7 = 23. Answer: x = 8
+Solve 4x + 18 = 54. Answer: x = 9
+What is the area of a triangle with base 6 and height 19? 57
+Find x: 5x + 3y = 11, 4x + 4y = 12. x = 1
+If 6x + 2 = 20, then x = 3
+d/dx(5x^3) = 15x^2
+What is 3 × 4? 12
+What is 28 ÷ 10? 2 R 8
+If 3x + 6 = 24, then x = 6
+What is the area of a rectangle with length 8 and width 17? 136
+If a car travels at 48 mph for 4 hours, how far does it travel? 192 miles
+What is 6 × 20 + 1? 121
+What is the GCD of 20 and 30? 10
+What are the factors of 10? [1, 2, 5, 10]
+Add 5/7 and 2/7. Answer: 49/49
+Add 1/4 and 6/8. Answer: 32/32
+Differentiate 4x^2. Answer: 8x
+Is 25 prime? False
+Solve 8x + 20 = 100. Answer: x = 10
+Find x: 5x + 3y = 30, 3x + 5y = 34. x = 3
+Divide 91 by 8. Answer: 11 remainder 3
+Solve 7x + 4 = 53. Answer: x = 7
+Find GCD(20, 30). Answer: 10
+What are the factors of 49? [1, 7, 49]
+Divide 33 by 10. Answer: 3 remainder 3
+What is the circumference of a circle with radius 8? 50.27
+Ratio 3:5, total 30. First part: 11
+What is the derivative of 2x^3? 6x^2
+What is the circumference of a circle with radius 14? 87.96
+List all factors of 35. Answer: [1, 5, 7, 35]
+Add 4/6 and 9/3. Answer: 66/18
+Ratio 2:2, total 28. First part: 14
+Is 28 prime? False
+Calculate 7 + 3 × 16. Answer: 55
+What is 69 ÷ 10? 6 R 9
+Find the perimeter of a rectangle 10 by 17. Answer: 54
+What is 23% of 324? 74
+Ratio 5:5, total 39. First part: 19
+What is 16 × 14 + 11? 235
+What are the factors of 35? [1, 5, 7, 35]
+What are the factors of 49? [1, 7, 49]
+Solve 8x + 1 = 9. Answer: x = 1
+Calculate 43% of 394. Answer: 169
+Find the perimeter of a rectangle 8 by 17. Answer: 50
+What is 6/5 + 8/7? 82/35
+What is the GCD of 22 and 18? 2
+What is 88 ÷ 6? 14 R 4
+Add 1/4 and 2/9. Answer: 17/36
+Solve 3x + 4y = 18 and 5x + 4y = 22 for x. Answer: x = 2
+Find GCD(40, 30). Answer: 10
+What is x in 8x + 4 = 36? 4
+What are the factors of 42? [1, 2, 3, 6, 7, 14, 21, 42]
+What is 7/5 + 3/2? 29/10
+What is the circumference of a circle with radius 12? 75.4
+Solve 7x + 17 = 66. Answer: x = 7
+Car speed: 78 mph, time: 5 hours. Distance: 390 miles
+If something is divided in ratio 3:3 and total is 32, what is the first part? 16
+Solve 2x + 14 = 32. Answer: x = 9
+Is 17 prime? True
+Solve 3x + 2y = 14 and 4x + 4y = 24 for x. Answer: x = 2
+List all factors of 10. Answer: [1, 2, 5, 10]
+Ratio 4:4, total 38. First part: 19
+Divide 81 by 8. Answer: 10 remainder 1
+d/dx(3x^4) = 12x^3
+What is x in 2x + 20 = 26? 3
+What is the circumference of a circle with radius 6? 37.7
+Solve 8x + 4 = 36. Answer: x = 4
+Find the area of a circle radius 6. Answer: 113.1
+Calculate 19% of 113. Answer: 21
+Add 6/4 and 8/8. Answer: 80/32
+d/dx(2x^4) = 8x^3
+If 8x + 1 = 57, then x = 7
+What is 13% of 432? 56
+Is 5 prime? True
+Differentiate 1x^1. Answer: 1
+What is the derivative of 3x^1? 3
+Find the perimeter of a rectangle 13 by 5. Answer: 36
+Find x: 5x + 3y = 31, 3x + 5y = 25. x = 5
+Find x: 5x + 4y = 19, 5x + 5y = 20. x = 3
+Find x: 5x + 4y = 14, 3x + 4y = 10. x = 2
+Differentiate 1x^3. Answer: 3x^2
+What is x in 8x + 2 = 18? 2
+Find the area of a circle radius 14. Answer: 615.75
+What is x in 6x + 19 = 43? 4
+Find the area of a circle radius 3. Answer: 28.27
+Calculate 2 + 14 × 10. Answer: 142
+What is the derivative of 1x^2? 2x
+What is the circumference of a circle with radius 5? 31.42
+What is the area of a triangle with base 5 and height 12? 30
+What is 99 ÷ 9? 11 R 0
+If a car travels at 55 mph for 5 hours, how far does it travel? 275 miles
+What is the area of a triangle with base 13 and height 13? 84
+What is the circumference of a circle with radius 11? 69.12
+If 10x + 5 = 85, then x = 8
+d/dx(5x + 4 + 1x^2) = 5 + 2x
+Find x: 4x + 5y = 23, 3x + 2y = 12. x = 2
+What is 16 + 19 × 17? 339
+Find the area of a circle radius 8. Answer: 201.06
+What is 6/5 + 6/4? 54/20
+What is the area of a triangle with base 16 and height 12? 96
+What is the derivative of 1x^2? 2x
+What is 7/2 + 9/8? 74/16
+Add 8/10 and 1/3. Answer: 34/30
+What is 33 ÷ 2? 16 R 1
+Is 28 prime? False
+List all factors of 47. Answer: [1, 47]
+If something is divided in ratio 5:2 and total is 26, what is the first part? 18
+Add 2/8 and 7/5. Answer: 66/40
+What is 10 + 6 × 4? 34
+Car speed: 45 mph, time: 1 hours. Distance: 45 miles
+Divide 67 by 9. Answer: 7 remainder 4
+Find the perimeter of a rectangle 5 by 19. Answer: 48
+Find the perimeter of a rectangle 12 by 14. Answer: 52
+Find the area of a circle radius 7. Answer: 153.94
+Find the area of a circle radius 7. Answer: 153.94
+Find GCD(27, 10). Answer: 1
+Find x: 3x + 4y = 35, 4x + 3y = 35. x = 5
+Is 3 prime? True
+Solve 3x + 3y = 15 and 2x + 5y = 13 for x. Answer: x = 4
+Ratio 4:3, total 42. First part: 24
+If something is divided in ratio 3:2 and total is 37, what is the first part? 22
+d/dx(2x^4) = 8x^3
+If something is divided in ratio 2:5 and total is 20, what is the first part? 5
+Calculate 12% of 381. Answer: 45
+Find x: 3x + 4y = 18, 5x + 4y = 22. x = 2
+What is the derivative of 3x^2 + 4x? 6x + 4
+Divide 73 by 8. Answer: 9 remainder 1
+Car speed: 39 mph, time: 1 hours. Distance: 39 miles
+What is the area of a rectangle with length 18 and width 18? 324
+Is 17 prime? True
+If 8x + 14 = 38, then x = 3
+Ratio 2:4, total 33. First part: 11
+What is 13 + 15 × 15? 238
+List all factors of 12. Answer: [1, 2, 3, 4, 6, 12]
+Ratio 2:4, total 48. First part: 16
+What are the factors of 14? [1, 2, 7, 14]
+Calculate 22% of 151. Answer: 33
+What is 4 × 5? 20
+If a car travels at 53 mph for 2 hours, how far does it travel? 106 miles
+Ratio 4:2, total 46. First part: 30
+Ratio 4:4, total 44. First part: 22
+Solve 6x + 17 = 65. Answer: x = 8
+Divide 20 by 5. Answer: 4 remainder 0
+What is 5/2 + 8/3? 31/6
+What is 24% of 265? 63
+What is the derivative of 5x^4? 20x^3
+List all factors of 17. Answer: [1, 17]
+Car speed: 63 mph, time: 3 hours. Distance: 189 miles
+List all factors of 24. Answer: [1, 2, 3, 4, 6, 8, 12, 24]
+What is the GCD of 36 and 12? 12
+If something is divided in ratio 4:2 and total is 46, what is the first part? 30
+What is the derivative of 1x^1? 1
+What is 8/3 + 6/5? 58/15
+What is x in 8x + 9 = 49? 5
+What is the area of a triangle with base 9 and height 11? 49
+If 5x + 3 = 48, then x = 9
+What are the factors of 40? [1, 2, 4, 5, 8, 10, 20, 40]
+Find the area of a circle radius 4. Answer: 50.27
+What is the GCD of 35 and 38? 1
+Solve 3x + 3y = 12 and 2x + 5y = 14 for x. Answer: x = 2
+Calculate 19% of 343. Answer: 65
+Divide 90 by 3. Answer: 30 remainder 0
+Calculate 3 + 12 × 19. Answer: 231
+Ratio 3:5, total 40. First part: 15
+If 6x + 17 = 65, then x = 8
+Is 31 prime? True
+Divide 59 by 9. Answer: 6 remainder 5
+Add 8/6 and 2/2. Answer: 28/12
+Find the area of a circle radius 13. Answer: 530.93
+If something is divided in ratio 3:5 and total is 30, what is the first part? 11
+List all factors of 25. Answer: [1, 5, 25]
+List all factors of 43. Answer: [1, 43]
+If 9x + 10 = 82, then x = 8
+Add 2/8 and 8/4. Answer: 72/32
+What is the area of a triangle with base 16 and height 16? 128
+Solve 2x + 2y = 18 and 2x + 3y = 23 for x. Answer: x = 4
+Triangle area: base 9, height 19. Answer: 85
+If a car travels at 61 mph for 2 hours, how far does it travel? 122 miles
+What is 3/7 + 2/8? 38/56
+What is the derivative of 1 + 2x^2? 4x
+Find the perimeter of a rectangle 10 by 8. Answer: 36
+Differentiate 2x^4. Answer: 8x^3
+What is the derivative of 1x^1? 1
+Solve 3x + 11 = 23. Answer: x = 4
+What is the derivative of 5x^3 + 4x^3 + 4x^3? 15x^2 + 12x^2 + 12x^2
+What is 31% of 202? 62
+What is 2/5 + 8/5? 50/25
+What is x in 8x + 12 = 28? 2
+What is x in 10x + 15 = 25? 1
+What is the derivative of 5x^2? 10x
+Is 8 prime? False
+Find GCD(39, 34). Answer: 1
+Divide 92 by 10. Answer: 9 remainder 2
+What is the derivative of 2x + 1x^2 + 3x^2? 2 + 2x + 6x
+Add 6/6 and 2/7. Answer: 54/42
+If a car travels at 72 mph for 2 hours, how far does it travel? 144 miles
+What is 4 + 14 × 10? 144
+Find the area of a circle radius 8. Answer: 201.06
+Find the perimeter of a rectangle 13 by 11. Answer: 48
+Compute 16 × 14 + 11. 235
+Find the perimeter of a rectangle 19 by 15. Answer: 68
+Find the area of a circle radius 6. Answer: 113.1
+Triangle area: base 6, height 17. Answer: 51
+Find x: 2x + 5y = 22, 3x + 4y = 19. x = 1
+Solve 5x + 2y = 16 and 4x + 3y = 17 for x. Answer: x = 2
+What is the derivative of 4x^1? 4
+Solve 8x + 18 = 50. Answer: x = 4
+Find x: 4x + 4y = 20, 4x + 5y = 21. x = 4
+Find x: 4x + 4y = 36, 3x + 4y = 32. x = 4
+What is the GCD of 13 and 32? 1
+If 5x + 7 = 47, then x = 8
+If a car travels at 59 mph for 4 hours, how far does it travel? 236 miles
+Solve 3x + 2y = 14 and 4x + 4y = 20 for x. Answer: x = 4
+If 10x + 13 = 73, then x = 6
+Calculate 23% of 324. Answer: 74
+Calculate 19% of 149. Answer: 28
+d/dx(1x^2) = 2x
+What is 6/6 + 6/10? 96/60
+If 3x + 11 = 14, then x = 1
+What is the area of a rectangle with length 6 and width 8? 48
+What is the GCD of 10 and 36? 2
+Solve 5x + 20 = 60. Answer: x = 8
+What is the circumference of a circle with radius 6? 37.7
+Find the perimeter of a rectangle 12 by 18. Answer: 60
+Solve 3x + 2y = 8 and 2x + 4y = 8 for x. Answer: x = 2
+Is 26 prime? False
+Add 3/9 and 9/6. Answer: 99/54
+Car speed: 74 mph, time: 3 hours. Distance: 222 miles
+If 10x + 18 = 28, then x = 1
+Find GCD(10, 36). Answer: 2
+What is 10 + 3 × 14? 52
+What are the factors of 43? [1, 43]
+Calculate 10% of 455. Answer: 45
+Differentiate 5x^2. Answer: 10x
+d/dx(2x^2) = 4x
+Find GCD(41, 29). Answer: 1
+Is 17 prime? True
+List all factors of 26. Answer: [1, 2, 13, 26]
+Solve 3x + 8 = 17. Answer: x = 3
+Solve 10x + 13 = 43. Answer: x = 3
+What is 8/3 + 2/5? 46/15
+What is 73 ÷ 8? 9 R 1
+What is the area of a triangle with base 19 and height 13? 123
+What is the derivative of 4x^2 + 3x + 4? 8x + 3
+What is 1/10 + 6/9? 69/90
+Solve 5x + 4y = 28 and 4x + 4y = 24 for x. Answer: x = 4
+What is 2 + 20 × 6? 122
+If a car travels at 37 mph for 2 hours, how far does it travel? 74 miles
+Solve 5x + 6 = 56. Answer: x = 10
+Solve 5x + 7 = 47. Answer: x = 8
+What is the area of a triangle with base 8 and height 8? 32
+Car speed: 58 mph, time: 5 hours. Distance: 290 miles
+What is the area of a triangle with base 9 and height 17? 76
+Find x: 4x + 2y = 14, 2x + 2y = 12. x = 1
+What is 38% of 477? 181
+Calculate 39% of 485. Answer: 189
+What is 5/6 + 7/9? 87/54
+Divide 73 by 4. Answer: 18 remainder 1
+What is the derivative of 4x^2? 8x
+Compute 18 × 17 + 16. 322
+Add 8/9 and 5/5. Answer: 85/45
+Divide 24 by 8. Answer: 3 remainder 0
+Add 4/6 and 3/9. Answer: 54/54
+Solve 4x + 15 = 55. Answer: x = 10
+Find x: 2x + 4y = 12, 4x + 5y = 18. x = 2
+If 4x + 14 = 26, then x = 3
+Find x: 5x + 5y = 15, 4x + 3y = 10. x = 1
+What is 3 × 16 + 5? 53
+What is 99 ÷ 10? 9 R 9
+What is 7/4 + 1/4? 32/16
+What are the factors of 43? [1, 43]
+Add 6/5 and 8/7. Answer: 82/35
+What is 5/10 + 4/4? 60/40
+d/dx(5x^3 + 4 + 4) = 15x^2
+Find the area of a circle radius 8. Answer: 201.06
+Divide 89 by 4. Answer: 22 remainder 1
+If a car travels at 50 mph for 6 hours, how far does it travel? 300 miles
+What is 8/5 + 9/8? 109/40
+What is 29 ÷ 2? 14 R 1
+If a car travels at 45 mph for 1 hours, how far does it travel? 45 miles
+What is x in 3x + 16 = 31? 5
+What is 6/2 + 5/5? 40/10
+What is 2/4 + 5/2? 24/8
+What is the circumference of a circle with radius 10? 62.83
+Calculate 20 + 18 × 1. Answer: 38
+What is 8/2 + 1/9? 74/18
+If something is divided in ratio 3:5 and total is 26, what is the first part? 9
+What is 22 ÷ 5? 4 R 2
+What is the area of a rectangle with length 11 and width 20? 220
+What is the area of a rectangle with length 9 and width 14? 126
+What is x in 5x + 16 = 56? 8
+Solve 7x + 7 = 35. Answer: x = 4
+What is 6/6 + 9/4? 78/24
+What is 8/8 + 7/5? 96/40
+Car speed: 53 mph, time: 2 hours. Distance: 106 miles
+If something is divided in ratio 3:4 and total is 43, what is the first part? 18
+What is the circumference of a circle with radius 3? 18.85
+What is x in 3x + 5 = 29? 8
+What is 61 ÷ 2? 30 R 1
+Calculate 19 + 1 × 16. Answer: 35
+Find x: 4x + 3y = 17, 2x + 2y = 10. x = 2
+Solve 4x + 2 = 22. Answer: x = 5
+Divide 51 by 3. Answer: 17 remainder 0
+Solve 3x + 5 = 20. Answer: x = 5
+What is 47 ÷ 6? 7 R 5
+Solve 7x + 9 = 30. Answer: x = 3
+If 5x + 16 = 36, then x = 4
+What is x in 5x + 17 = 67? 10
+Divide 51 by 8. Answer: 6 remainder 3
+If a car travels at 60 mph for 6 hours, how far does it travel? 360 miles
+What is the circumference of a circle with radius 7? 43.98
+What is the area of a triangle with base 10 and height 19? 95
+If something is divided in ratio 2:2 and total is 41, what is the first part? 20
+Divide 27 by 10. Answer: 2 remainder 7
+Ratio 4:2, total 37. First part: 24
+Add 7/5 and 3/10. Answer: 85/50
+Divide 69 by 10. Answer: 6 remainder 9
+If something is divided in ratio 2:5 and total is 45, what is the first part? 12
+What is the derivative of 4x^4? 16x^3
+Ratio 2:3, total 36. First part: 14
+Calculate 1 + 7 × 12. Answer: 85
+Find x: 4x + 5y = 41, 2x + 5y = 33. x = 4
+What is 82 ÷ 3? 27 R 1
+Find x: 3x + 5y = 8, 2x + 2y = 4. x = 1
+Differentiate 1x^2. Answer: 2x
+Add 6/2 and 5/5. Answer: 40/10
+What is 9 + 15 × 1? 24
+What is the circumference of a circle with radius 9? 56.55
+What is 12% of 381? 45
+d/dx(5 + 4x + 3) = 4
+What is 19 × 14 + 9? 275
+What is the derivative of 1x^2? 2x
+Divide 71 by 3. Answer: 23 remainder 2
+Divide 28 by 10. Answer: 2 remainder 8
+If 2x + 4 = 16, then x = 6
+What is the circumference of a circle with radius 8? 50.27
+What is 6/6 + 2/7? 54/42
+What is 21 ÷ 3? 7 R 0
+Divide 47 by 6. Answer: 7 remainder 5
+What is x in 8x + 18 = 98? 10
+What is 3/6 + 1/8? 30/48
+What is x in 10x + 5 = 85? 8
+Find x: 4x + 3y = 23, 5x + 5y = 30. x = 5
+What is 48% of 415? 199
+Calculate 42% of 460. Answer: 193
+What is the GCD of 27 and 23? 1
+Divide 66 by 5. Answer: 13 remainder 1
+Divide 49 by 5. Answer: 9 remainder 4
+Differentiate 1x^2. Answer: 2x
+What is 56 ÷ 4? 14 R 0
+Solve 4x + 4y = 28 and 3x + 2y = 17 for x. Answer: x = 3
+Solve 5x + 3 = 48. Answer: x = 9
+What is 1/9 + 1/6? 15/54
+Triangle area: base 13, height 13. Answer: 84
+Is 11 prime? True
+Differentiate 1x^2. Answer: 2x
+What are the factors of 47? [1, 47]
+Calculate 4 + 11 × 16. Answer: 180
+What is the area of a rectangle with length 10 and width 12? 120
+What is the derivative of 1 + 3x + 2x^2? 3 + 4x
+Triangle area: base 20, height 14. Answer: 140
+Solve 8x + 9 = 49. Answer: x = 5
+Solve 4x + 5y = 41 and 2x + 5y = 33 for x. Answer: x = 4
+d/dx(2x^3) = 6x^2
+If 5x + 17 = 67, then x = 10
+If a car travels at 51 mph for 3 hours, how far does it travel? 153 miles
+Solve 10x + 16 = 66. Answer: x = 5
+Add 2/2 and 7/6. Answer: 26/12
+d/dx(1x^1) = 1
+Car speed: 66 mph, time: 6 hours. Distance: 396 miles
+Is 19 prime? True
+Find the perimeter of a rectangle 16 by 20. Answer: 72
+d/dx(2 + 2x + 3x^2) = 2 + 6x
+Solve 4x + 4y = 36 and 3x + 4y = 32 for x. Answer: x = 4
+What is the derivative of 5x + 1x^3 + 5? 5 + 3x^2
+Is 27 prime? False
+Is 29 prime? True
+Divide 35 by 10. Answer: 3 remainder 5
+What is the GCD of 41 and 29? 1
+Is 27 prime? False
+Find x: 4x + 2y = 30, 5x + 3y = 40. x = 5
+Find the perimeter of a rectangle 20 by 17. Answer: 74
+What is 6 + 15 × 13? 201
+Find the perimeter of a rectangle 11 by 6. Answer: 34
+Is 18 prime? False
+Solve 2x + 4y = 12 and 4x + 5y = 18 for x. Answer: x = 2
+Triangle area: base 19, height 13. Answer: 123
+What are the factors of 31? [1, 31]
+Calculate 6 + 11 × 2. Answer: 28
+What is the GCD of 27 and 49? 1
+What are the factors of 13? [1, 13]
+Add 7/9 and 8/10. Answer: 142/90
+If 4x + 14 = 38, then x = 6
+What is 4/2 + 7/6? 38/12
+Car speed: 49 mph, time: 3 hours. Distance: 147 miles
+What is the area of a triangle with base 18 and height 10? 90
+If 2x + 15 = 27, then x = 6
+Is 19 prime? True
+Is 11 prime? True
+Car speed: 48 mph, time: 4 hours. Distance: 192 miles
+Solve 4x + 7 = 27. Answer: x = 5
+Add 7/5 and 3/2. Answer: 29/10
+What is the area of a rectangle with length 16 and width 8? 128
+Is 26 prime? False
+Find the perimeter of a rectangle 16 by 15. Answer: 62
+Is 21 prime? False
+What is the area of a rectangle with length 15 and width 19? 285
+What is 2/8 + 8/4? 72/32
+Calculate 16% of 348. Answer: 55
+If a car travels at 53 mph for 5 hours, how far does it travel? 265 miles
+Add 8/3 and 2/5. Answer: 46/15
+What is the area of a triangle with base 13 and height 8? 52
+What are the factors of 28? [1, 2, 4, 7, 14, 28]
+Find x: 4x + 3y = 24, 5x + 4y = 31. x = 3
+If 10x + 5 = 105, then x = 10
+What is the area of a rectangle with length 15 and width 13? 195
+What is the area of a triangle with base 12 and height 11? 66
+Divide 73 by 7. Answer: 10 remainder 3
+Solve 2x + 4 = 16. Answer: x = 6
+Calculate 36% of 463. Answer: 166
+What is 20 × 20 + 14? 414
+Solve 2x + 2y = 10 and 5x + 4y = 22 for x. Answer: x = 2
+What is the circumference of a circle with radius 4? 25.13
+Is 15 prime? False
+Solve 4x + 14 = 38. Answer: x = 6
+What is x in 2x + 18 = 20? 1
+Find x: 5x + 3y = 18, 3x + 3y = 12. x = 3
+If 10x + 15 = 25, then x = 1
+Divide 95 by 9. Answer: 10 remainder 5
+If something is divided in ratio 5:3 and total is 28, what is the first part? 17
+Solve 8x + 2 = 18. Answer: x = 2
+Add 9/7 and 4/8. Answer: 100/56
+List all factors of 24. Answer: [1, 2, 3, 4, 6, 8, 12, 24]
+Solve 3x + 3y = 27 and 4x + 5y = 41 for x. Answer: x = 4
+Find GCD(49, 16). Answer: 1
+Ratio 2:2, total 36. First part: 18
+What is 7/9 + 8/10? 142/90
+What is the derivative of 2 + 4x^3 + 2x^2? 12x^2 + 4x
+Calculate 14 + 2 × 19. Answer: 52
+What is the area of a triangle with base 8 and height 12? 48
+What is the circumference of a circle with radius 3? 18.85
+Calculate 14 + 17 × 13. Answer: 235
+d/dx(2x^3 + 5) = 6x^2
+d/dx(5x^3) = 15x^2
+Find GCD(10, 42). Answer: 2
+Car speed: 65 mph, time: 3 hours. Distance: 195 miles
+What is the area of a triangle with base 14 and height 15? 105
+Find the perimeter of a rectangle 7 by 20. Answer: 54
+Calculate 16 + 19 × 1. Answer: 35
+Divide 86 by 10. Answer: 8 remainder 6
+Divide 22 by 3. Answer: 7 remainder 1
+Find x: 3x + 5y = 20, 5x + 5y = 30. x = 5
+Triangle area: base 7, height 19. Answer: 66
+What is 7/9 + 8/8? 128/72
+d/dx(2 + 4x^3 + 2x^2) = 12x^2 + 4x
+Compute 20 × 20 + 14. 414
+Find the perimeter of a rectangle 5 by 5. Answer: 20
+Car speed: 64 mph, time: 4 hours. Distance: 256 miles
+What is 19% of 149? 28
+Add 3/6 and 1/8. Answer: 30/48
+Add 6/3 and 6/8. Answer: 66/24
+If something is divided in ratio 2:4 and total is 33, what is the first part? 11
+What is the derivative of 3x^4? 12x^3
+Find the area of a circle radius 3. Answer: 28.27
+What is the derivative of 2x^2? 4x
+Solve 2x + 20 = 26. Answer: x = 3
+Solve 7x + 12 = 75. Answer: x = 9
+Find GCD(21, 47). Answer: 1
+Divide 43 by 7. Answer: 6 remainder 1
+Triangle area: base 8, height 12. Answer: 48
+What is the derivative of 5x^2 + 4x^3? 10x + 12x^2
+If 4x + 15 = 55, then x = 10
+Add 5/2 and 8/3. Answer: 31/6
+Is 41 prime? True
+List all factors of 47. Answer: [1, 47]
+Add 3/4 and 3/10. Answer: 42/40
+What is x in 4x + 4 = 36? 8
+If 10x + 18 = 88, then x = 7
+What is x in 7x + 20 = 27? 1
+If 7x + 7 = 21, then x = 2
+Is 28 prime? False
+What is x in 8x + 18 = 50? 4
+Is 25 prime? False
+What is the GCD of 26 and 28? 2
+Find the perimeter of a rectangle 19 by 15. Answer: 68
+What is 6/8 + 6/4? 72/32
+Triangle area: base 11, height 18. Answer: 99
+If something is divided in ratio 2:2 and total is 36, what is the first part? 18
+What is the GCD of 23 and 43? 1
+Calculate 20% of 216. Answer: 43
+Find the perimeter of a rectangle 9 by 14. Answer: 46
+Solve 5x + 15 = 20. Answer: x = 1
+Car speed: 72 mph, time: 2 hours. Distance: 144 miles
+Find the area of a circle radius 4. Answer: 50.27
+Find the perimeter of a rectangle 6 by 17. Answer: 46
+What is 6/10 + 1/3? 28/30
+What is 42 ÷ 10? 4 R 2
+Solve 4x + 11 = 47. Answer: x = 9
+Solve 4x + 3y = 23 and 5x + 5y = 30 for x. Answer: x = 5
+Solve 9x + 6 = 51. Answer: x = 5
+Solve 5x + 4y = 14 and 3x + 4y = 10 for x. Answer: x = 2
+If 2x + 18 = 20, then x = 1
+d/dx(4x + 1x^3 + 4x^3) = 4 + 3x^2 + 12x^2
+Find the perimeter of a rectangle 11 by 6. Answer: 34
+What is the area of a rectangle with length 7 and width 15? 105
+What is 27 ÷ 7? 3 R 6
+What are the factors of 40? [1, 2, 4, 5, 8, 10, 20, 40]
+What is 4/6 + 9/3? 66/18
+What is 64 ÷ 6? 10 R 4
+What is the area of a rectangle with length 19 and width 15? 285
+What is the circumference of a circle with radius 6? 37.7
+List all factors of 50. Answer: [1, 2, 5, 10, 25, 50]
+What are the factors of 45? [1, 3, 5, 9, 15, 45]
+What is the circumference of a circle with radius 12? 75.4
+Divide 99 by 10. Answer: 9 remainder 9
+What is 7/2 + 6/6? 54/12
+What is the GCD of 41 and 43? 1
+What is 10% of 238? 23
+What is 9/5 + 4/2? 38/10
+Add 6/6 and 1/10. Answer: 66/60
+Add 8/10 and 7/4. Answer: 102/40
+What is 6/3 + 6/8? 66/24
+d/dx(1x + 1 + 4x^2) = 1 + 8x
+What is 20% of 216? 43
+What is x in 9x + 10 = 82? 8
+Add 8/7 and 3/7. Answer: 77/49
+What is the derivative of 1x^1? 1
+What is the GCD of 50 and 47? 1
+What is 2/2 + 7/6? 26/12
+Solve 9x + 18 = 108. Answer: x = 10
+Find the perimeter of a rectangle 15 by 18. Answer: 66
+If a car travels at 44 mph for 6 hours, how far does it travel? 264 miles
+Find x: 3x + 4y = 28, 2x + 5y = 28. x = 4
+What is 5/5 + 2/6? 40/30
+Calculate 13% of 432. Answer: 56
+If something is divided in ratio 4:3 and total is 42, what is the first part? 24
+Add 7/8 and 6/2. Answer: 62/16
+Is 26 prime? False
+Solve 5x + 3y = 17 and 3x + 3y = 15 for x. Answer: x = 1
+List all factors of 28. Answer: [1, 2, 4, 7, 14, 28]
+Divide 20 by 7. Answer: 2 remainder 6
+What is the circumference of a circle with radius 12? 75.4
+Differentiate 1x^2. Answer: 2x
+Divide 40 by 4. Answer: 10 remainder 0
+If a car travels at 63 mph for 5 hours, how far does it travel? 315 miles
+What is the derivative of 5 + 4x + 3? 4
+Differentiate 3x^4. Answer: 12x^3
+What is 21% of 352? 73
+Solve 2x + 3 = 13. Answer: x = 5
+What is x in 9x + 18 = 108? 10
+List all factors of 49. Answer: [1, 7, 49]
+Ratio 2:4, total 21. First part: 7
+List all factors of 40. Answer: [1, 2, 4, 5, 8, 10, 20, 40]
+Solve 5x + 2 = 22. Answer: x = 4
+Find GCD(16, 16). Answer: 16
+Divide 63 by 2. Answer: 31 remainder 1
+Add 3/8 and 6/10. Answer: 78/80
+If 4x + 12 = 28, then x = 4
+Compute 12 × 17 + 20. 224
+Solve 2x + 4y = 18 and 2x + 2y = 14 for x. Answer: x = 5
+What is the GCD of 19 and 24? 1
+Find x: 3x + 3y = 12, 2x + 5y = 14. x = 2
+Solve 2x + 5y = 29 and 3x + 4y = 26 for x. Answer: x = 2
+Find x: 5x + 3y = 18, 2x + 4y = 10. x = 3
+What is the derivative of 1 + 3x^3 + 3x^3? 9x^2 + 9x^2
+Compute 6 × 20 + 1. 121
+If something is divided in ratio 3:3 and total is 21, what is the first part? 10
+What is 36 ÷ 3? 12 R 0
+What is 3/9 + 9/6? 99/54
+d/dx(1 + 3x^3 + 3x^3) = 9x^2 + 9x^2
+What is 36 ÷ 10? 3 R 6
+Find x: 2x + 3y = 9, 2x + 2y = 8. x = 3
+If 2x + 15 = 19, then x = 2
+d/dx(5x^1) = 5
+What are the factors of 33? [1, 3, 11, 33]
+What is the derivative of 2x + 1? 2
+What is 2 × 3? 6
+List all factors of 10. Answer: [1, 2, 5, 10]
+d/dx(1 + 3x + 2x^2) = 3 + 4x
+Solve 8x + 1 = 57. Answer: x = 7
+Divide 60 by 3. Answer: 20 remainder 0
+What are the factors of 25? [1, 5, 25]
+What is 86 ÷ 3? 28 R 2
+Find x: 5x + 4y = 28, 4x + 4y = 24. x = 4
+Add 8/8 and 3/4. Answer: 56/32
+What is 6/4 + 2/8? 56/32
+If something is divided in ratio 2:5 and total is 33, what is the first part? 9
+What is 35% of 123? 43
+If 2x + 19 = 39, then x = 10
+If 10x + 15 = 25, then x = 1
+What is 10% of 450? 45
+What is 52 ÷ 4? 13 R 0
+Add 9/9 and 4/7. Answer: 99/63
+List all factors of 35. Answer: [1, 5, 7, 35]
+Find the area of a circle radius 5. Answer: 78.54
+What is 37 ÷ 3? 12 R 1
+What is x in 5x + 2 = 22? 4
+d/dx(2x + 1) = 2
+If a car travels at 36 mph for 2 hours, how far does it travel? 72 miles
+Divide 33 by 8. Answer: 4 remainder 1
+What is x in 2x + 5 = 7? 1
+Differentiate 2x^4. Answer: 8x^3
+Triangle area: base 18, height 18. Answer: 162
+Add 3/2 and 1/7. Answer: 23/14
+Find GCD(23, 25). Answer: 1
+Divide 70 by 8. Answer: 8 remainder 6
+Find the area of a circle radius 13. Answer: 530.93
+What is 14 + 5 × 17? 99
+If a car travels at 52 mph for 6 hours, how far does it travel? 312 miles
+Divide 88 by 6. Answer: 14 remainder 4
+What is 90 ÷ 8? 11 R 2
+What is 20 + 8 × 20? 180
+Triangle area: base 12, height 12. Answer: 72
+Add 7/3 and 5/9. Answer: 78/27
+Find x: 2x + 4y = 22, 2x + 3y = 18. x = 3
+What is 34% of 451? 153
+d/dx(5x^3 + 2x^2 + 5x^3) = 15x^2 + 4x + 15x^2
+If 9x + 5 = 50, then x = 5
+What is the area of a rectangle with length 16 and width 20? 320
+Add 7/4 and 1/4. Answer: 32/16
+Add 7/10 and 9/2. Answer: 104/20
+Differentiate 2x^2. Answer: 4x
+Ratio 5:4, total 36. First part: 20
+d/dx(2x^2 + 1 + 4x^2) = 4x + 8x
+List all factors of 12. Answer: [1, 2, 3, 4, 6, 12]
+What is the GCD of 16 and 16? 16
+d/dx(5x^2) = 10x
+What is the derivative of 5x^2? 10x
+Solve 4x + 2y = 30 and 5x + 3y = 40 for x. Answer: x = 5
+If a car travels at 39 mph for 1 hours, how far does it travel? 39 miles
+What is the area of a triangle with base 5 and height 5? 12
+Is 16 prime? False
+If something is divided in ratio 2:3 and total is 25, what is the first part? 10
+Find x: 4x + 4y = 28, 2x + 3y = 18. x = 3
+What is 26% of 288? 74
+What is x in 7x + 9 = 16? 1
+Triangle area: base 9, height 18. Answer: 81
+What is 8 + 19 × 1? 27
+Divide 34 by 7. Answer: 4 remainder 6
+If 8x + 2 = 42, then x = 5
+Car speed: 39 mph, time: 3 hours. Distance: 117 miles
+If 9x + 18 = 108, then x = 10
+What are the factors of 47? [1, 47]
+What is the derivative of 4x^1? 4
+What is the derivative of 5x^4? 20x^3
+Divide 52 by 6. Answer: 8 remainder 4
+Triangle area: base 17, height 7. Answer: 59
+What is 10 × 6 + 15? 75
+What is 60 ÷ 3? 20 R 0
+What is the area of a rectangle with length 11 and width 19? 209
+If a car travels at 37 mph for 3 hours, how far does it travel? 111 miles
+Add 1/3 and 3/5. Answer: 14/15
+Divide 76 by 6. Answer: 12 remainder 4
+What is x in 7x + 20 = 69? 7
+What is 6 + 11 × 2? 28
+What is the area of a rectangle with length 16 and width 15? 240
+If 2x + 5 = 7, then x = 1
+Is 16 prime? False
+Find x: 5x + 4y = 25, 3x + 3y = 18. x = 1
+List all factors of 42. Answer: [1, 2, 3, 6, 7, 14, 21, 42]
+d/dx(3x^1) = 3
+Solve 2x + 4y = 16 and 4x + 2y = 20 for x. Answer: x = 4
+If something is divided in ratio 3:4 and total is 32, what is the first part? 13
+If a car travels at 61 mph for 4 hours, how far does it travel? 244 miles
+What is x in 3x + 4 = 19? 5
+Solve 9x + 15 = 60. Answer: x = 5
+Solve 4x + 2y = 14 and 2x + 2y = 12 for x. Answer: x = 1
+List all factors of 26. Answer: [1, 2, 13, 26]
+What is 7/3 + 5/9? 78/27
+What is 21 ÷ 4? 5 R 1
+Find the area of a circle radius 9. Answer: 254.47
+Find the perimeter of a rectangle 12 by 12. Answer: 48
+Solve 2x + 2y = 8 and 3x + 2y = 10 for x. Answer: x = 2
+Ratio 5:5, total 36. First part: 18
+Differentiate 5x^1. Answer: 5
+What is the GCD of 32 and 12? 4
+Find GCD(41, 43). Answer: 1
+If 5x + 16 = 36, then x = 4
+If something is divided in ratio 2:4 and total is 20, what is the first part? 6
+If a car travels at 69 mph for 6 hours, how far does it travel? 414 miles
+d/dx(1x^4) = 4x^3
+If 8x + 3 = 75, then x = 9
+Ratio 2:3, total 30. First part: 12
+List all factors of 39. Answer: [1, 3, 13, 39]
+What is the derivative of 1x^2 + 3x? 2x + 3
+Add 8/5 and 9/8. Answer: 109/40
+Ratio 3:3, total 42. First part: 21
+Find x: 2x + 5y = 13, 2x + 4y = 12. x = 4
+What is the area of a rectangle with length 11 and width 6? 66
+What is 3/2 + 1/7? 23/14
+Find GCD(50, 47). Answer: 1
+Find GCD(35, 39). Answer: 1
+If a car travels at 64 mph for 4 hours, how far does it travel? 256 miles
+Find GCD(31, 30). Answer: 1
+Is 7 prime? True
+Solve 10x + 5 = 85. Answer: x = 8
+What is the area of a rectangle with length 13 and width 5? 65
+Find the perimeter of a rectangle 16 by 19. Answer: 70
+Find the area of a circle radius 6. Answer: 113.1
+What is 2/7 + 9/5? 73/35
+Solve 4x + 14 = 26. Answer: x = 3
+If 2x + 13 = 21, then x = 4
+What is the derivative of 2x^3 + 4x^3 + 2? 6x^2 + 12x^2
+Find GCD(43, 37). Answer: 1
+d/dx(1x^3) = 3x^2
+Add 6/4 and 2/8. Answer: 56/32
+Solve 4x + 4y = 28 and 2x + 4y = 18 for x. Answer: x = 5
+Find x: 3x + 2y = 16, 3x + 3y = 21. x = 2
+What is 41% of 264? 108
+What is the circumference of a circle with radius 11? 69.12
+Add 1/9 and 1/6. Answer: 15/54
+What is 35 ÷ 8? 4 R 3
+Ratio 2:2, total 41. First part: 20
+What is the derivative of 5x^3 + 2x^2 + 5x^3? 15x^2 + 4x + 15x^2
+Solve 2x + 3y = 11 and 4x + 4y = 20 for x. Answer: x = 4
+Solve 3x + 13 = 16. Answer: x = 1
+What is 45% of 435? 195
+What is 13% of 198? 25
+What is the derivative of 2x + 1? 2
+Is 23 prime? True
+What is 23% of 278? 63
+Find the perimeter of a rectangle 10 by 12. Answer: 44
+Solve 2x + 8 = 14. Answer: x = 3
+What are the factors of 48? [1, 2, 3, 4, 6, 8, 12, 16, 24, 48]
+If 9x + 18 = 36, then x = 2
+Car speed: 63 mph, time: 2 hours. Distance: 126 miles
+Compute 11 × 12 + 13. 145
+Find x: 3x + 5y = 16, 4x + 4y = 16. x = 2
+What is 29 ÷ 9? 3 R 2
+Find the area of a circle radius 4. Answer: 50.27
+What is x in 9x + 5 = 50? 5
+If something is divided in ratio 4:4 and total is 34, what is the first part? 17
+Add 6/6 and 9/4. Answer: 78/24
+Find x: 2x + 2y = 18, 2x + 3y = 23. x = 4
+What is x in 7x + 12 = 68? 8
+d/dx(4x^1) = 4
+What is 8/10 + 7/4? 102/40
+Divide 39 by 6. Answer: 6 remainder 3
+What is the area of a triangle with base 9 and height 19? 85
+Solve 2x + 14 = 34. Answer: x = 10
+What is 63 ÷ 2? 31 R 1
+Calculate 17 + 1 × 10. Answer: 27
+What is the area of a triangle with base 5 and height 11? 27
+Is 24 prime? False
+Solve 4x + 4y = 20 and 3x + 2y = 14 for x. Answer: x = 4
+What is x in 3x + 18 = 33? 5
+What is 71 ÷ 3? 23 R 2
+What is the circumference of a circle with radius 8? 50.27
+What is 3/4 + 3/10? 42/40
+Differentiate 5x^4. Answer: 20x^3
+Is 24 prime? False
+If 4x + 4 = 36, then x = 8
+What is 23 ÷ 2? 11 R 1
+What is x in 4x + 7 = 27? 5
+Calculate 19 + 6 × 4. Answer: 43
+Find GCD(41, 43). Answer: 1
+Is 3 prime? True
+What is the area of a triangle with base 18 and height 18? 162
+Calculate 10 + 8 × 7. Answer: 66
+d/dx(2x^2 + 2) = 4x
+Find GCD(22, 29). Answer: 1
+What is 2 + 2? 4
+What is the area of a rectangle with length 19 and width 16? 304
+If 5x + 2 = 7, then x = 1
+Find GCD(44, 10). Answer: 2
+What is 68 ÷ 5? 13 R 3
+What is the GCD of 23 and 25? 1
+Differentiate 1x^1. Answer: 1
+Add 5/8 and 9/2. Answer: 82/16
+If a car travels at 34 mph for 1 hours, how far does it travel? 34 miles
+Car speed: 69 mph, time: 6 hours. Distance: 414 miles
+What are the factors of 13? [1, 13]
+What is the derivative of 1x^1? 1
+Is 18 prime? False
+What is the area of a triangle with base 9 and height 14? 63
+What is the GCD of 31 and 40? 1
+Divide 99 by 9. Answer: 11 remainder 0
+What is x in 6x + 2 = 20? 3
+Solve 3x + 4y = 35 and 4x + 3y = 35 for x. Answer: x = 5
+What is the derivative of 2x^1? 2
+Ratio 3:4, total 32. First part: 13
+What is the GCD of 27 and 10? 1
+What is the derivative of 2x^3 + 3 + 4x^3? 6x^2 + 12x^2
+List all factors of 40. Answer: [1, 2, 4, 5, 8, 10, 20, 40]
+Find x: 5x + 3y = 18, 4x + 3y = 15. x = 3
+List all factors of 45. Answer: [1, 3, 5, 9, 15, 45]
+Add 7/2 and 8/3. Answer: 37/6
+Divide 78 by 5. Answer: 15 remainder 3
+Add 6/5 and 6/4. Answer: 54/20
+Is 12 prime? False
+What is 70 ÷ 8? 8 R 6
+Ratio 2:5, total 33. First part: 9
+What is 3 + 14 × 6? 87
+What is the derivative of 1x^2? 2x
+Differentiate 3x^2. Answer: 6x
+Ratio 4:4, total 34. First part: 17
+List all factors of 33. Answer: [1, 3, 11, 33]
+d/dx(2x + 1) = 2
+Add 5/10 and 4/4. Answer: 60/40
+Car speed: 68 mph, time: 5 hours. Distance: 340 miles
+What is the area of a triangle with base 17 and height 7? 59
+If 7x + 12 = 75, then x = 9
+What is 17 + 1 × 10? 27
+Find the perimeter of a rectangle 11 by 20. Answer: 62
+What is the derivative of 5x^3 + 4 + 4? 15x^2
+Find the perimeter of a rectangle 12 by 11. Answer: 46
+If 5x + 2 = 22, then x = 4
+If something is divided in ratio 4:2 and total is 33, what is the first part? 22
+What are the factors of 15? [1, 3, 5, 15]
+Find the area of a circle radius 9. Answer: 254.47
+Differentiate 4x^2. Answer: 8x
+What is 4/9 + 1/9? 45/81
+Divide 93 by 8. Answer: 11 remainder 5
+What is the derivative of 2x^2? 4x
+If 9x + 15 = 60, then x = 5
+Add 4/2 and 7/6. Answer: 38/12
+What is 6 + 17 × 10? 176
+What is x in 2x + 18 = 28? 5
+What is the circumference of a circle with radius 3? 18.85
+What is the circumference of a circle with radius 7? 43.98
+What is 36% of 463? 166
+Calculate 9 + 15 × 1. Answer: 24
+Add 3/10 and 7/6. Answer: 88/60
+What is the derivative of 2 + 2 + 4x? 4
+Solve 8x + 3 = 75. Answer: x = 9
+Solve 6x + 14 = 38. Answer: x = 4
+Calculate 28% of 372. Answer: 104
+What is the derivative of 1x^3? 3x^2
+Divide 41 by 7. Answer: 5 remainder 6
+List all factors of 40. Answer: [1, 2, 4, 5, 8, 10, 20, 40]
+Add 5/6 and 7/9. Answer: 87/54
+Find the perimeter of a rectangle 7 by 6. Answer: 26
+If 8x + 9 = 49, then x = 5
+What is 4 + 11 × 16? 180
+Is 19 prime? True
+Car speed: 60 mph, time: 6 hours. Distance: 360 miles
+Calculate 32% of 375. Answer: 120
+What is x in 3x + 6 = 24? 6
+What is 21 ÷ 8? 2 R 5
+If 5x + 20 = 60, then x = 8
+What are the factors of 22? [1, 2, 11, 22]
+What is the GCD of 35 and 39? 1
+Solve 5x + 3y = 26 and 2x + 4y = 16 for x. Answer: x = 4
+Divide 53 by 3. Answer: 17 remainder 2
+Divide 67 by 2. Answer: 33 remainder 1
+Solve 5x + 3y = 18 and 2x + 4y = 10 for x. Answer: x = 3
+What is the area of a triangle with base 7 and height 15? 52
+d/dx(1 + 4x^3 + 5x^2) = 12x^2 + 10x
+Find GCD(10, 29). Answer: 1
+Solve 5x + 5y = 45 and 4x + 2y = 26 for x. Answer: x = 4
+What is 89 ÷ 4? 22 R 1
+List all factors of 10. Answer: [1, 2, 5, 10]
+What is the area of a rectangle with length 5 and width 5? 25
+What is the GCD of 47 and 44? 1
+Solve 4x + 2y = 18 and 4x + 3y = 19 for x. Answer: x = 4
+Calculate 48% of 225. Answer: 108
+Find x: 2x + 4y = 16, 4x + 2y = 20. x = 4
+Find the perimeter of a rectangle 18 by 19. Answer: 74
+What is x in 2x + 5 = 25? 10
+Find the area of a circle radius 5. Answer: 78.54
+If a car travels at 72 mph for 3 hours, how far does it travel? 216 miles
+Differentiate 3x^4. Answer: 12x^3
+d/dx(2x^3 + 2x) = 6x^2 + 2
+What is 92 ÷ 10? 9 R 2
+If 10x + 16 = 66, then x = 5
+What is the area of a triangle with base 10 and height 20? 100
+Solve 3x + 3y = 18 and 3x + 5y = 24 for x. Answer: x = 3
+Solve 5x + 4y = 45 and 3x + 2y = 25 for x. Answer: x = 5
+Find GCD(27, 49). Answer: 1
+Compute 14 × 12 + 16. 184
+Calculate 38% of 477. Answer: 181
+What is x in 3x + 8 = 17? 3
+Add 2/6 and 3/10. Answer: 38/60
+If a car travels at 49 mph for 6 hours, how far does it travel? 294 miles
+Calculate 6 + 17 × 10. Answer: 176
+What is x in 7x + 13 = 76? 9
+Find x: 5x + 3y = 13, 4x + 4y = 12. x = 2
+What is the area of a rectangle with length 14 and width 7? 98
+Ratio 4:2, total 33. First part: 22
+Find the area of a circle radius 3. Answer: 28.27
+Divide 71 by 10. Answer: 7 remainder 1
+Compute 3 × 16 + 5. 53
+Triangle area: base 5, height 12. Answer: 30
+What are the factors of 33? [1, 3, 11, 33]
+If 3x + 8 = 17, then x = 3
+Car speed: 55 mph, time: 5 hours. Distance: 275 miles
+Find x: 5x + 3y = 26, 2x + 4y = 16. x = 4
+What is x in 2x + 3 = 13? 5
+Solve 5x + 2y = 28 and 3x + 3y = 24 for x. Answer: x = 4
+Find x: 3x + 3y = 18, 3x + 5y = 24. x = 3
+Is 21 prime? False
+Solve 4x + 3y = 24 and 5x + 4y = 31 for x. Answer: x = 3
+Divide 21 by 3. Answer: 7 remainder 0
+Differentiate 2x^1. Answer: 2
+What is 98 ÷ 6? 16 R 2
+Car speed: 62 mph, time: 5 hours. Distance: 310 miles
+What is the GCD of 39 and 48? 3
+Is 9 prime? False
+Differentiate 5x^3. Answer: 15x^2
+Calculate 13 + 15 × 15. Answer: 238
+What is the derivative of 3x^4? 12x^3
+Find x: 3x + 3y = 15, 2x + 5y = 13. x = 4
+What is the area of a triangle with base 6 and height 17? 51
+If a car travels at 56 mph for 5 hours, how far does it travel? 280 miles
+What is the area of a triangle with base 16 and height 12? 96
+What is the derivative of 3x^4? 12x^3
+What is the area of a triangle with base 12 and height 17? 102
+Find GCD(31, 40). Answer: 1
+What is the area of a rectangle with length 16 and width 15? 240
+Divide 59 by 5. Answer: 11 remainder 4
+Find x: 2x + 5y = 15, 2x + 4y = 14. x = 5
+Car speed: 68 mph, time: 2 hours. Distance: 136 miles
+What is 41 ÷ 7? 5 R 6
+Is 15 prime? False
+Add 8/2 and 1/9. Answer: 74/18
+Find the area of a circle radius 12. Answer: 452.39
+Triangle area: base 9, height 19. Answer: 85
+Find the perimeter of a rectangle 18 by 9. Answer: 54
+What is the derivative of 5x + 4 + 1x^2? 5 + 2x
+What is the area of a triangle with base 9 and height 10? 45
+Find the area of a circle radius 3. Answer: 28.27
+d/dx(5x + 4x^2) = 5 + 8x
+What is 8/9 + 5/5? 85/45
+What is 6/2 + 6/2? 24/4
+What is the derivative of 5x + 4x^2? 5 + 8x
+Find x: 2x + 2y = 8, 3x + 2y = 10. x = 2
+Find the perimeter of a rectangle 15 by 19. Answer: 68
+What is 55 ÷ 6? 9 R 1
+Solve 9x + 5 = 50. Answer: x = 5
+If a car travels at 61 mph for 1 hours, how far does it travel? 61 miles
+What are the factors of 31? [1, 31]
+Solve 3x + 2y = 16 and 3x + 3y = 21 for x. Answer: x = 2
+What is 6/9 + 7/9? 117/81
+Differentiate 2x^2. Answer: 4x
+If 4x + 7 = 27, then x = 5
+Add 4/6 and 1/7. Answer: 34/42
+What is 37 ÷ 8? 4 R 5
+What is the GCD of 49 and 16? 1
+What is x in 9x + 17 = 80? 7
+What is 5/7 + 9/5? 88/35
+What is x in 5x + 20 = 60? 8
+Find the area of a circle radius 6. Answer: 113.1
+If 3x + 11 = 23, then x = 4
+Find the area of a circle radius 5. Answer: 78.54
+If something is divided in ratio 3:5 and total is 26, what is the first part? 9
+What is x in 2x + 19 = 39? 10
+Add 1/3 and 8/10. Answer: 34/30
+Triangle area: base 12, height 17. Answer: 102
+Divide 63 by 7. Answer: 9 remainder 0
+Triangle area: base 15, height 16. Answer: 120
+Solve 5x + 3y = 20 and 5x + 4y = 25 for x. Answer: x = 1
+d/dx(4x^2 + 2x^3) = 8x + 6x^2
+What is x in 4x + 18 = 54? 9
+What are the factors of 39? [1, 3, 13, 39]
+What is the circumference of a circle with radius 9? 56.55
+What is the area of a rectangle with length 7 and width 20? 140
+Is 18 prime? False
+Is 8 prime? False
+If a car travels at 37 mph for 3 hours, how far does it travel? 111 miles
+What is 65 ÷ 2? 32 R 1
+Add 6/3 and 9/2. Answer: 39/6
+Solve 5x + 5y = 30 and 5x + 4y = 27 for x. Answer: x = 3
+Divide 36 by 3. Answer: 12 remainder 0
+Ratio 2:5, total 20. First part: 5
+Find x: 5x + 2y = 16, 4x + 3y = 17. x = 2
+What is the derivative of 5x^3? 15x^2
+If a car travels at 66 mph for 6 hours, how far does it travel? 396 miles
+Is 23 prime? True
+What is the GCD of 32 and 26? 2
+What is 2 + 18 × 16? 290
+If something is divided in ratio 5:5 and total is 36, what is the first part? 18
+What is the circumference of a circle with radius 3? 18.85
+What is 61 ÷ 6? 10 R 1
+Triangle area: base 9, height 20. Answer: 90
+Find x: 4x + 4y = 20, 3x + 2y = 14. x = 4
+If 3x + 16 = 31, then x = 5
+Find the perimeter of a rectangle 18 by 18. Answer: 72
+Find GCD(35, 42). Answer: 7
+If 6x + 11 = 53, then x = 7
+If a car travels at 49 mph for 3 hours, how far does it travel? 147 miles
+What is 18 + 18 × 15? 288
+List all factors of 14. Answer: [1, 2, 7, 14]
+d/dx(1x + 4x^3 + 3x^3) = 1 + 12x^2 + 9x^2
+Calculate 2 + 18 × 16. Answer: 290
+What is 22 ÷ 4? 5 R 2
+If a car travels at 62 mph for 5 hours, how far does it travel? 310 miles
+Is 10 prime? False
+Calculate 11% of 426. Answer: 46
+If 5x + 16 = 56, then x = 8
+What is 1/5 + 1/6? 11/30
+If a car travels at 53 mph for 3 hours, how far does it travel? 159 miles
+Is 20 prime? False
+Is 47 prime? True
+What is 5/7 + 2/7? 49/49
+What is 4/6 + 1/7? 34/42
+Solve 4x + 5y = 23 and 3x + 2y = 12 for x. Answer: x = 2
+What is the area of a triangle with base 20 and height 16? 160
+Find the perimeter of a rectangle 7 by 5. Answer: 24
+What is 16 × 19 + 4? 308
+Divide 39 by 5. Answer: 7 remainder 4
+Find x: 3x + 3y = 15, 4x + 2y = 12. x = 1
+Triangle area: base 9, height 10. Answer: 45
+Divide 37 by 8. Answer: 4 remainder 5
+Add 1/5 and 5/5. Answer: 30/25
+d/dx(3x^4) = 12x^3
+Calculate 10 + 3 × 14. Answer: 52
+Find x: 2x + 4y = 6, 3x + 3y = 6. x = 1
+What is the GCD of 17 and 40? 1
+What is 42% of 460? 193
+d/dx(3x^4) = 12x^3
+Solve 6x + 2 = 20. Answer: x = 3
+Is 17 prime? True
+What is the area of a triangle with base 19 and height 15? 142
+What is 63 ÷ 7? 9 R 0
+What is 24% of 492? 118
+Triangle area: base 10, height 19. Answer: 95
+What are the factors of 47? [1, 47]
+List all factors of 49. Answer: [1, 7, 49]
+Solve 5x + 17 = 67. Answer: x = 10
+d/dx(1x^2 + 3x) = 2x + 3
+What is 5/3 + 2/3? 21/9
+Solve 7x + 20 = 69. Answer: x = 7
+d/dx(5x^3) = 15x^2
+Triangle area: base 5, height 5. Answer: 12
+What is 20% of 210? 42
+Solve 3x + 3y = 15 and 4x + 2y = 12 for x. Answer: x = 1
+What are the factors of 24? [1, 2, 3, 4, 6, 8, 12, 24]
+Solve 8x + 18 = 98. Answer: x = 10
+What is the GCD of 26 and 28? 2
+If 5x + 1 = 11, then x = 2
+Find GCD(44, 34). Answer: 2
+What is 2/8 + 7/5? 66/40
+What is 3 + 3? 6
+What is 5 + 5? 10
+Calculate 21% of 352. Answer: 73
+Find GCD(17, 47). Answer: 1
+What is 40 ÷ 4? 10 R 0
+Solve 3x + 18 = 33. Answer: x = 5
+What is the circumference of a circle with radius 13? 81.68
+What is x in 5x + 6 = 56? 10
+Ratio 2:4, total 24. First part: 8
+If a car travels at 62 mph for 6 hours, how far does it travel? 372 miles
+Differentiate 5x^2. Answer: 10x
+What is 19% of 343? 65
+d/dx(2x + 4x + 1x^3) = 2 + 4 + 3x^2
+Solve 2x + 13 = 21. Answer: x = 4
+What is 7/2 + 8/3? 37/6
+Is 43 prime? True
+What is 35 ÷ 7? 5 R 0
+Solve 4x + 12 = 28. Answer: x = 4
+What is 62 ÷ 4? 15 R 2
+Add 9/8 and 6/10. Answer: 138/80
+What is the area of a triangle with base 9 and height 18? 81
+What is 39 ÷ 5? 7 R 4
+Car speed: 61 mph, time: 1 hours. Distance: 61 miles
+Car speed: 49 mph, time: 6 hours. Distance: 294 miles
+If 2x + 14 = 34, then x = 10
+What is 1/4 + 2/9? 17/36
+What is 43% of 482? 207
+Calculate 4 + 8 × 16. Answer: 132
+What are the factors of 24? [1, 2, 3, 4, 6, 8, 12, 24]
+What is 36% of 334? 120
+If a car travels at 44 mph for 4 hours, how far does it travel? 176 miles
+Solve 4x + 2y = 28 and 2x + 4y = 26 for x. Answer: x = 5
+If 8x + 1 = 57, then x = 7
+d/dx(2 + 5x) = 5
+Ratio 2:3, total 25. First part: 10
+What is the GCD of 10 and 42? 2
+What is the area of a rectangle with length 19 and width 15? 285
+d/dx(3x^1) = 3
+Solve 4x + 5y = 29 and 5x + 4y = 25 for x. Answer: x = 1
+If something is divided in ratio 3:4 and total is 44, what is the first part? 18
+What is x in 9x + 18 = 36? 2
+What are the factors of 12? [1, 2, 3, 4, 6, 12]
+What are the factors of 18? [1, 2, 3, 6, 9, 18]
+If something is divided in ratio 4:2 and total is 32, what is the first part? 21
+What is 3/8 + 6/10? 78/80
+Solve 2x + 18 = 20. Answer: x = 1
+Solve 8x + 1 = 57. Answer: x = 7
+Triangle area: base 10, height 20. Answer: 100
+Ratio 4:2, total 48. First part: 32
+Calculate 45% of 435. Answer: 195
+What are the factors of 45? [1, 3, 5, 9, 15, 45]
+What is the derivative of 2x^2 + 2? 4x
+Car speed: 61 mph, time: 4 hours. Distance: 244 miles
+What is 76 ÷ 10? 7 R 6
+What is 25 ÷ 9? 2 R 7
+What is x in 10x + 13 = 43? 3
+What is 12% of 344? 41
+Calculate 16 + 19 × 17. Answer: 339
+Find x: 4x + 4y = 28, 2x + 4y = 18. x = 5
+Solve 10x + 13 = 73. Answer: x = 6
+What is 1/4 + 6/7? 31/28
+Divide 99 by 10. Answer: 9 remainder 9
+Is 13 prime? True
+Divide 21 by 4. Answer: 5 remainder 1
+What is 3/10 + 7/6? 88/60
+What is the area of a rectangle with length 12 and width 14? 168
+Solve 5x + 3y = 13 and 4x + 4y = 12 for x. Answer: x = 2
+Find the perimeter of a rectangle 7 by 11. Answer: 36
+Find the area of a circle radius 9. Answer: 254.47
+Find x: 5x + 5y = 30, 2x + 4y = 14. x = 5
+Calculate 48% of 415. Answer: 199
+Differentiate 4x^4. Answer: 16x^3
+What is 9/9 + 4/7? 99/63
+Add 9/6 and 2/4. Answer: 48/24
+What is 4 + 8 × 16? 132
+What is x in 8x + 1 = 57? 7
+Calculate 5 + 12 × 16. Answer: 197
+Is 37 prime? True
+What is 3 + 12 × 19? 231
+What is the derivative of 1x^3? 3x^2
+Is 25 prime? False
+Solve 5x + 4y = 30 and 4x + 2y = 18 for x. Answer: x = 2
+Differentiate 1x^2. Answer: 2x
+Divide 35 by 8. Answer: 4 remainder 3
+Solve 3x + 3y = 9 and 2x + 4y = 10 for x. Answer: x = 1
+d/dx(2x^4) = 8x^3
+Ratio 5:2, total 48. First part: 34
+Divide 90 by 8. Answer: 11 remainder 2
+Find x: 5x + 3y = 20, 5x + 4y = 25. x = 1
+Is 14 prime? False
+Car speed: 40 mph, time: 6 hours. Distance: 240 miles
+Calculate 3 + 14 × 6. Answer: 87
+Add 6/8 and 6/4. Answer: 72/32
+If something is divided in ratio 5:2 and total is 48, what is the first part? 34
+Calculate 34% of 451. Answer: 153
+Solve 9x + 14 = 86. Answer: x = 8
+Car speed: 36 mph, time: 2 hours. Distance: 72 miles
+Is 20 prime? False
+Solve 3x + 11 = 14. Answer: x = 1
+What is the circumference of a circle with radius 6? 37.7
+What is 52 ÷ 6? 8 R 4
+List all factors of 45. Answer: [1, 3, 5, 9, 15, 45]
+What is 49 ÷ 5? 9 R 4
+Calculate 10% of 450. Answer: 45
+What is the derivative of 2x + 4x + 1x^3? 2 + 4 + 3x^2
+What is 20 ÷ 7? 2 R 6
+Ratio 3:5, total 26. First part: 9
+Solve 3x + 5y = 8 and 2x + 2y = 4 for x. Answer: x = 1
+If something is divided in ratio 4:2 and total is 37, what is the first part? 24
+Add 9/3 and 3/7. Answer: 72/21
+Add 8/8 and 7/5. Answer: 96/40
+If 2x + 8 = 24, then x = 8
+Triangle area: base 9, height 17. Answer: 76
+What is 6/8 + 9/5? 102/40
+Solve 2x + 15 = 27. Answer: x = 6
+If 3x + 18 = 45, then x = 9
+Solve 5x + 16 = 36. Answer: x = 4
+What is 3/7 + 2/10? 44/70
+Find GCD(26, 28). Answer: 2
+What is the derivative of 3x + 5x? 3 + 5
+Solve 2x + 5y = 21 and 2x + 2y = 12 for x. Answer: x = 3
+Find the area of a circle radius 6. Answer: 113.1
+What is 67 ÷ 2? 33 R 1
+Differentiate 5x^1. Answer: 5
+What is the derivative of 2 + 2x? 2
+Divide 35 by 7. Answer: 5 remainder 0
+Calculate 20% of 210. Answer: 42
+What is x in 4x + 15 = 55? 10
+Is 22 prime? False
+What is x in 5x + 15 = 20? 1
+What is x in 3x + 18 = 45? 9
+Find GCD(23, 43). Answer: 1
+Triangle area: base 12, height 17. Answer: 102
+What is the circumference of a circle with radius 11? 69.12
+Triangle area: base 16, height 16. Answer: 128
+Solve 5x + 16 = 36. Answer: x = 4
+Differentiate 3x^1. Answer: 3
+What is the derivative of 1x^1? 1
+Solve 5x + 4y = 22 and 3x + 3y = 15 for x. Answer: x = 2
+d/dx(3x^4) = 12x^3
+Is 47 prime? True
+What is the area of a rectangle with length 10 and width 17? 170
+Add 6/10 and 1/3. Answer: 28/30
+Add 1/10 and 6/9. Answer: 69/90
+Calculate 43% of 482. Answer: 207
+Triangle area: base 9, height 14. Answer: 63
+What is x in 7x + 9 = 30? 3
+Find the area of a circle radius 6. Answer: 113.1
+What is the derivative of 2x^4? 8x^3
+Solve 2x + 2y = 12 and 2x + 5y = 18 for x. Answer: x = 4
+What is the circumference of a circle with radius 4? 25.13
+Find x: 5x + 4y = 45, 3x + 2y = 25. x = 5
+Solve 10x + 15 = 25. Answer: x = 1
+What is 51 ÷ 8? 6 R 3
+d/dx(5x^3) = 15x^2
+If a car travels at 34 mph for 1 hours, how far does it travel? 34 miles
+Find GCD(36, 12). Answer: 12
+Is 25 prime? False
+Car speed: 56 mph, time: 5 hours. Distance: 280 miles
+Calculate 6 + 15 × 13. Answer: 201
+If a car travels at 61 mph for 1 hours, how far does it travel? 61 miles
+If something is divided in ratio 2:3 and total is 36, what is the first part? 14
+Find x: 4x + 3y = 7, 3x + 5y = 8. x = 1
+What is the area of a rectangle with length 11 and width 6? 66
+What is x in 5x + 1 = 11? 2
+Add 2/10 and 3/8. Answer: 46/80
+Is 37 prime? True
+d/dx(1x^1) = 1
+What is 14% of 323? 45
+Solve 2x + 4y = 22 and 2x + 3y = 18 for x. Answer: x = 3
+d/dx(3 + 4x^2 + 4x^2) = 8x + 8x
+What is 43% of 394? 169
+List all factors of 37. Answer: [1, 37]
+d/dx(3 + 5x^2) = 10x
+Solve 5x + 3y = 31 and 3x + 5y = 25 for x. Answer: x = 5
+List all factors of 48. Answer: [1, 2, 3, 4, 6, 8, 12, 16, 24, 48]
+Divide 49 by 6. Answer: 8 remainder 1
+Calculate 11% of 282. Answer: 31
+What is x in 2x + 14 = 32? 9
+What is the derivative of 5x^3 + 3? 15x^2
+What is 33 ÷ 10? 3 R 3
+What is x in 7x + 7 = 35? 4
+Solve 5x + 5y = 15 and 4x + 3y = 10 for x. Answer: x = 1
+Is 47 prime? True
+Differentiate 1x^1. Answer: 1
+Calculate 38% of 288. Answer: 109
+Add 1/5 and 1/6. Answer: 11/30
+What is 73 ÷ 7? 10 R 3
+What is 86 ÷ 10? 8 R 6
+If something is divided in ratio 2:4 and total is 48, what is the first part? 16
+Car speed: 47 mph, time: 6 hours. Distance: 282 miles
+Ratio 2:5, total 45. First part: 12
+If 7x + 13 = 76, then x = 9
+Solve 9x + 17 = 80. Answer: x = 7
+d/dx(2 + 2 + 4x) = 4
+What is 76 ÷ 6? 12 R 4
+Is 8 prime? False
+d/dx(1x^2) = 2x
+What is the derivative of 5x^4? 20x^3
+d/dx(2x^3 + 4x^3 + 2) = 6x^2 + 12x^2
+Divide 55 by 3. Answer: 18 remainder 1
+What is the GCD of 50 and 33? 1
+What is x in 5x + 3 = 48? 9
+What is 73 ÷ 4? 18 R 1
+Calculate 14% of 364. Answer: 50
+Solve 9x + 3 = 12. Answer: x = 1
+What is the GCD of 49 and 48? 1
+What is the area of a rectangle with length 12 and width 18? 216
+What is x in 5x + 7 = 47? 8
+Divide 52 by 10. Answer: 5 remainder 2
+What is the GCD of 32 and 14? 2
+What is 38% of 453? 172
+Solve 5x + 4y = 9 and 3x + 3y = 6 for x. Answer: x = 1
+Solve 2x + 5 = 25. Answer: x = 10
+Find GCD(35, 38). Answer: 1
+What is the derivative of 1x + 1 + 4x^2? 1 + 8x
+Compute 7 × 4 + 12. 40
+Find the area of a circle radius 5. Answer: 78.54
+What are the factors of 40? [1, 2, 4, 5, 8, 10, 20, 40]
+Divide 63 by 2. Answer: 31 remainder 1
+List all factors of 12. Answer: [1, 2, 3, 4, 6, 12]
+Solve 5x + 3y = 18 and 3x + 3y = 12 for x. Answer: x = 3
+Find x: 3x + 2y = 17, 5x + 3y = 27. x = 3
+What is the derivative of 3x^1? 3
+Find x: 3x + 3y = 12, 5x + 2y = 14. x = 2
+If 7x + 9 = 30, then x = 3
+Find x: 2x + 2y = 12, 2x + 5y = 18. x = 4
+Is 14 prime? False
+Solve 7x + 12 = 68. Answer: x = 8
+What is the derivative of 5x^1? 5
+Differentiate 2x^4. Answer: 8x^3
+Add 9/4 and 6/9. Answer: 105/36
+What is the derivative of 5x^3? 15x^2
+Ratio 3:2, total 48. First part: 28
+Solve 10x + 18 = 88. Answer: x = 7
+What is the area of a triangle with base 10 and height 19? 95
+What is the derivative of 5x + 1x^3 + 1? 5 + 3x^2
+Divide 58 by 2. Answer: 29 remainder 0
+Is 14 prime? False
+What is the derivative of 4 + 1x^3 + 2x^3? 3x^2 + 6x^2
+Car speed: 52 mph, time: 6 hours. Distance: 312 miles
+If a car travels at 73 mph for 5 hours, how far does it travel? 365 miles
+What is 5/3 + 3/4? 29/12
+Calculate 24% of 492. Answer: 118
+What is the area of a rectangle with length 5 and width 8? 40
+Solve 2x + 4y = 6 and 3x + 3y = 6 for x. Answer: x = 1
+List all factors of 35. Answer: [1, 5, 7, 35]
+What is the circumference of a circle with radius 11? 69.12
+Calculate 31% of 202. Answer: 62
+Add 8/2 and 4/7. Answer: 64/14
+Is 5 prime? True
+What is the area of a rectangle with length 10 and width 8? 80
+Solve 2x + 8 = 24. Answer: x = 8
+List all factors of 24. Answer: [1, 2, 3, 4, 6, 8, 12, 24]
+Triangle area: base 12, height 5. Answer: 30
+What is the circumference of a circle with radius 12? 75.4
+Solve 2x + 5 = 7. Answer: x = 1
+What is the area of a triangle with base 12 and height 17? 102
+What is the circumference of a circle with radius 5? 31.42
+d/dx(3x^2 + 4x) = 6x + 4
+Is 31 prime? True
+If 7x + 17 = 66, then x = 7
+What is x in 4x + 14 = 38? 6
+Solve 5x + 2 = 37. Answer: x = 7
+What is 4/2 + 6/9? 48/18
+d/dx(1x^2 + 1) = 2x
+d/dx(1x^1) = 1
+Solve 7x + 9 = 16. Answer: x = 1
+Solve 5x + 3y = 11 and 4x + 4y = 12 for x. Answer: x = 1
+Find the area of a circle radius 3. Answer: 28.27
+What is x in 7x + 4 = 53? 7
+If 2x + 18 = 28, then x = 5
+Is 25 prime? False
+What is 8/10 + 3/4? 62/40
+Solve 4x + 5y = 13 and 3x + 5y = 11 for x. Answer: x = 2
+What are the factors of 37? [1, 37]
+Triangle area: base 8, height 7. Answer: 28
+Is 5 prime? True
+If something is divided in ratio 3:3 and total is 42, what is the first part? 21
+Divide 29 by 9. Answer: 3 remainder 2
+What is x in 10x + 16 = 66? 5
+Solve 2x + 3y = 5 and 4x + 4y = 8 for x. Answer: x = 1
+Add 6/8 and 9/5. Answer: 102/40
+d/dx(4x^1) = 4
+Divide 71 by 7. Answer: 10 remainder 1
+Car speed: 61 mph, time: 2 hours. Distance: 122 miles
+Compute 19 × 14 + 9. 275
+If 2x + 5 = 25, then x = 10
+Calculate 18 + 18 × 15. Answer: 288
+Solve 6x + 11 = 53. Answer: x = 7
+Calculate 20 + 17 × 12. Answer: 224
+If something is divided in ratio 4:4 and total is 38, what is the first part? 19
+Find GCD(31, 20). Answer: 1
+Triangle area: base 5, height 11. Answer: 27
+What is the area of a rectangle with length 7 and width 11? 77
+If something is divided in ratio 5:5 and total is 39, what is the first part? 19
+What are the factors of 26? [1, 2, 13, 26]
+Is 19 prime? True
+If 6x + 14 = 38, then x = 4
+d/dx(1x^1) = 1
+What is 10 - 3? 7
+If 2x + 14 = 32, then x = 9
+Solve 6x + 19 = 43. Answer: x = 4
+Is 17 prime? True
+What is the derivative of 2x^4? 8x^3
+Calculate 12% of 344. Answer: 41
+If a car travels at 65 mph for 3 hours, how far does it travel? 195 miles
+What is 1/7 + 6/10? 52/70
+If 8x + 1 = 9, then x = 1
+What is 8/2 + 4/7? 64/14
+Find x: 3x + 5y = 24, 2x + 5y = 21. x = 3
+If something is divided in ratio 3:5 and total is 25, what is the first part? 9
+What is the area of a triangle with base 18 and height 20? 180
+List all factors of 33. Answer: [1, 3, 11, 33]
+What is 93 ÷ 8? 11 R 5
+Find x: 4x + 2y = 14, 2x + 3y = 9. x = 3
+List all factors of 31. Answer: [1, 31]
+What is x in 10x + 18 = 88? 7
+Is 5 prime? True
+d/dx(4x^3 + 2x^3) = 12x^2 + 6x^2
+Find x: 2x + 5y = 29, 3x + 4y = 26. x = 2
+What is the area of a rectangle with length 18 and width 9? 162
+What is the derivative of 1 + 2x^3? 6x^2
+Solve 4x + 4y = 20 and 4x + 5y = 21 for x. Answer: x = 4
+Find GCD(50, 33). Answer: 1
+What are the factors of 10? [1, 2, 5, 10]
+What is 20 ÷ 4? 5
+Solve 7x + 7 = 21. Answer: x = 2
+Find the area of a circle radius 3. Answer: 28.27
+If 5x + 15 = 50, then x = 7
+Triangle area: base 10, height 19. Answer: 95
+d/dx(5x^2) = 10x
+What is the GCD of 16 and 14? 2
+Solve 2x + 2y = 10 and 4x + 2y = 18 for x. Answer: x = 4
+Differentiate 1x^1. Answer: 1
+Calculate 36% of 334. Answer: 120
+Solve 10x + 20 = 30. Answer: x = 1
+Find GCD(29, 41). Answer: 1
+What is 8/6 + 2/2? 28/12
+Differentiate 5x^2. Answer: 10x
+Find x: 2x + 3y = 11, 4x + 4y = 20. x = 4
+Solve 5x + 4y = 19 and 5x + 5y = 20 for x. Answer: x = 3
+d/dx(1x^1) = 1
+What is the GCD of 17 and 47? 1
+Divide 56 by 4. Answer: 14 remainder 0
+Find the area of a circle radius 3. Answer: 28.27
+What is the derivative of 1x^4? 4x^3
+Differentiate 4x^1. Answer: 4
+What is 27 ÷ 10? 2 R 7
+List all factors of 31. Answer: [1, 31]
+Find the perimeter of a rectangle 5 by 8. Answer: 26
+Add 6/3 and 7/10. Answer: 81/30
+Find the perimeter of a rectangle 16 by 15. Answer: 62
+Divide 25 by 9. Answer: 2 remainder 7
+Find x: 3x + 3y = 18, 4x + 5y = 29. x = 1
+d/dx(5x^1) = 5
+Ratio 2:4, total 38. First part: 12
+If a car travels at 56 mph for 6 hours, how far does it travel? 336 miles
+What is the area of a rectangle with length 19 and width 13? 247
+Find the perimeter of a rectangle 20 by 19. Answer: 78
+What is 37% of 209? 77
+Find the area of a circle radius 11. Answer: 380.13
+Solve 5x + 2y = 16 and 4x + 3y = 17 for x. Answer: x = 2
+If something is divided in ratio 2:4 and total is 24, what is the first part? 8
+What is x in 2x + 7 = 23? 8
+Calculate 15% of 283. Answer: 42
+What is 22 ÷ 3? 7 R 1
+What is the circumference of a circle with radius 4? 25.13
+Solve 4x + 4 = 36. Answer: x = 8
+Solve 3x + 5y = 16 and 4x + 4y = 16 for x. Answer: x = 2
+What is the circumference of a circle with radius 10? 62.83
+Triangle area: base 18, height 10. Answer: 90
+Find x: 3x + 2y = 14, 4x + 4y = 24. x = 2
+Differentiate 2x^2. Answer: 4x
+Differentiate 5x^1. Answer: 5
+Add 5/3 and 2/3. Answer: 21/9
+Find the area of a circle radius 11. Answer: 380.13
+d/dx(4x^4) = 16x^3
+What is the derivative of 2x^2 + 1 + 4x^2? 4x + 8x
+Solve 4x + 15 = 55. Answer: x = 10
+Add 1/4 and 6/7. Answer: 31/28
+Differentiate 4x^1. Answer: 4
+What is x in 5x + 15 = 50? 7
+Find x: 2x + 4y = 16, 2x + 3y = 13. x = 2
+Divide 22 by 4. Answer: 5 remainder 2
+Find GCD(19, 24). Answer: 1
+Divide 81 by 5. Answer: 16 remainder 1
+Find the area of a circle radius 4. Answer: 50.27
+What is the GCD of 22 and 29? 1
+Solve 3x + 3y = 12 and 5x + 2y = 14 for x. Answer: x = 2
+Solve 4x + 2y = 24 and 5x + 3y = 31 for x. Answer: x = 5
+What is 7/10 + 9/2? 104/20
+What is 91 ÷ 8? 11 R 3
+If a car travels at 47 mph for 6 hours, how far does it travel? 282 miles
+Solve 4x + 7 = 27. Answer: x = 5
+What is x in 6x + 17 = 65? 8
+What is 34 ÷ 7? 4 R 6
+What is the area of a triangle with base 8 and height 7? 28
+If 10x + 20 = 30, then x = 1
+What is the GCD of 40 and 30? 10
+Add 9/8 and 8/2. Answer: 82/16
+Is 29 prime? True
+If 7x + 20 = 27, then x = 1
+What is 71 ÷ 10? 7 R 1
+What is 81 ÷ 8? 10 R 1
+Find x: 2x + 4y = 18, 2x + 2y = 14. x = 5
+What is 11 × 12 + 13? 145
+What is the area of a triangle with base 5 and height 12? 30
+What is the GCD of 17 and 19? 1
+Add 5/5 and 2/2. Answer: 20/10
+Calculate 14 + 5 × 17. Answer: 99
+Find x: 3x + 2y = 13, 5x + 3y = 21. x = 3
+Divide 22 by 5. Answer: 4 remainder 2
+What is x in 4x + 7 = 27? 5
+Car speed: 34 mph, time: 1 hours. Distance: 34 miles
+What is the derivative of 2 + 2x + 3x^2? 2 + 6x
+Find GCD(27, 23). Answer: 1
+Car speed: 34 mph, time: 1 hours. Distance: 34 miles
+Triangle area: base 7, height 19. Answer: 66
+What is 52 ÷ 10? 5 R 2
+Add 2/8 and 7/8. Answer: 72/64
+What is the area of a rectangle with length 12 and width 10? 120
+What is 20 ÷ 6? 3 R 2
+What is the derivative of 2 + 5x? 5
+Add 1/9 and 6/9. Answer: 63/81
+What is the derivative of 4x^2? 8x
+If a car travels at 56 mph for 4 hours, how far does it travel? 224 miles
+Is 41 prime? True
+Is 3 prime? True
+Ratio 3:2, total 37. First part: 22
+What is 6/3 + 9/2? 39/6
+If 8x + 12 = 28, then x = 2
+What is 39% of 327? 127
+Differentiate 2x^3. Answer: 6x^2
+List all factors of 21. Answer: [1, 3, 7, 21]
+Divide 64 by 6. Answer: 10 remainder 4
+What is 63 ÷ 2? 31 R 1
+What is x in 10x + 15 = 25? 1
+Find the area of a circle radius 3. Answer: 28.27
+Add 1/7 and 4/7. Answer: 35/49
+d/dx(4x^2 + 2x^3 + 5x^3) = 8x + 6x^2 + 15x^2
+What is the area of a rectangle with length 13 and width 11? 143
+Add 9/5 and 4/2. Answer: 38/10
+d/dx(4x^2) = 8x
+What is 59 ÷ 9? 6 R 5
+What is 51 ÷ 3? 17 R 0
+Is 37 prime? True
+What is 42 ÷ 8? 5 R 2
+What is the area of a triangle with base 6 and height 6? 18
+Find the perimeter of a rectangle 6 by 8. Answer: 28
+What is 19 + 1 × 16? 35
+What is 99 ÷ 10? 9 R 9
+Find x: 2x + 5y = 21, 2x + 2y = 12. x = 3
+Find x: 2x + 3y = 15, 4x + 3y = 21. x = 3
+What is the area of a triangle with base 5 and height 8? 20
+Differentiate 3x^4. Answer: 12x^3
+List all factors of 32. Answer: [1, 2, 4, 8, 16, 32]
+What is 16 + 19 × 1? 35
+What is x in 4x + 2 = 22? 5
+What is 9/7 + 4/8? 100/56
+Calculate 37% of 209. Answer: 77
+Ratio 3:4, total 43. First part: 18
+Ratio 3:5, total 25. First part: 9
+What is 5 + 12 × 16? 197
+If 8x + 20 = 100, then x = 10
+Find x: 3x + 3y = 27, 4x + 5y = 41. x = 4
+Is 30 prime? False
+Divide 29 by 2. Answer: 14 remainder 1
+Ratio 2:5, total 45. First part: 12
+List all factors of 47. Answer: [1, 47]
+What is 38% of 288? 109
+Solve 2x + 3y = 22 and 3x + 4y = 31 for x. Answer: x = 5
+Find x: 2x + 2y = 10, 5x + 4y = 22. x = 2
+What is x in 10x + 20 = 30? 1
+If 2x + 7 = 23, then x = 8
+Add 2/5 and 8/5. Answer: 50/25
+What is x in 4x + 12 = 28? 4
+What are the factors of 45? [1, 3, 5, 9, 15, 45]
+Find x: 4x + 5y = 29, 5x + 4y = 25. x = 1
+What is the circumference of a circle with radius 5? 31.42
+What is 50 ÷ 9? 5 R 5
+What is the derivative of 2x^2? 4x
+Find x: 5x + 5y = 45, 4x + 2y = 26. x = 4
+Is 27 prime? False
+Find GCD(32, 12). Answer: 4
+Find GCD(26, 28). Answer: 2
+Calculate 35% of 123. Answer: 43
+What is the derivative of 1 + 4x^3 + 5x^2? 12x^2 + 10x
+Divide 61 by 2. Answer: 30 remainder 1
+What is 8/2 + 6/5? 52/10
+Is 20 prime? False
+What is 90 ÷ 3? 30 R 0
+Is 7 prime? True
+Add 3/7 and 2/8. Answer: 38/56
+Add 7/2 and 6/6. Answer: 54/12
+Find x: 5x + 4y = 30, 4x + 2y = 18. x = 2
+Solve 2x + 18 = 28. Answer: x = 5
+What is 8/10 + 1/3? 34/30
+If 7x + 7 = 35, then x = 4
+Triangle area: base 9, height 8. Answer: 36
+Divide 61 by 6. Answer: 10 remainder 1
+What is 95 ÷ 9? 10 R 5
+What is the GCD of 31 and 20? 1
+Add 2/4 and 5/2. Answer: 24/8
+Find GCD(49, 48). Answer: 1
+Triangle area: base 16, height 12. Answer: 96
+If 3x + 5 = 29, then x = 8
+What is 40 ÷ 7? 5 R 5
+If 8x + 18 = 98, then x = 10
+Find the perimeter of a rectangle 16 by 8. Answer: 48
+Find GCD(17, 40). Answer: 1
+What is the derivative of 5x^2? 10x
+d/dx(4x^2 + 3x + 4) = 8x + 3
+Add 5/7 and 9/5. Answer: 88/35
+Differentiate 5x^3. Answer: 15x^2
+What is 20 ÷ 7? 2 R 6
+What is the area of a triangle with base 16 and height 12? 96
+What is x in 2x + 8 = 24? 8
+What is the derivative of 5x^3 + 3x? 15x^2 + 3
+d/dx(1x^2) = 2x
+What is the area of a rectangle with length 5 and width 12? 60
+What is the circumference of a circle with radius 8? 50.27
+What is 93 ÷ 5? 18 R 3
+Calculate 10% of 238. Answer: 23
+What is 6/6 + 1/10? 66/60
+Calculate 2 + 20 × 6. Answer: 122
+What is 1/7 + 4/7? 35/49
+Find GCD(24, 19). Answer: 1
+What is 32% of 375? 120
+What is x in 2x + 13 = 21? 4
+What is 5/8 + 9/2? 82/16
+Divide 21 by 8. Answer: 2 remainder 5
+If something is divided in ratio 5:4 and total is 36, what is the first part? 20
+If something is divided in ratio 3:4 and total is 23, what is the first part? 9
+Solve 5x + 3y = 18 and 4x + 3y = 15 for x. Answer: x = 3
+What is the area of a rectangle with length 8 and width 17? 136
+Find GCD(42, 42). Answer: 42
+Ratio 3:5, total 26. First part: 9
+What is 2/8 + 7/8? 72/64
+List all factors of 18. Answer: [1, 2, 3, 6, 9, 18]
+What is the GCD of 31 and 30? 1
+Find x: 3x + 2y = 14, 4x + 4y = 20. x = 4
+Ratio 2:4, total 20. First part: 6
+Find the area of a circle radius 8. Answer: 201.06
+d/dx(2x^2) = 4x
+What is the derivative of 1x^2 + 2x? 2x + 2
+Find x: 4x + 2y = 24, 5x + 3y = 31. x = 5
+Find x: 4x + 2y = 28, 2x + 4y = 26. x = 5
+What is the derivative of 2x^4? 8x^3
+If something is divided in ratio 4:4 and total is 44, what is the first part? 22
+What are the factors of 35? [1, 5, 7, 35]
+What is the GCD of 24 and 19? 1
+What is 22% of 151? 33
+What is the area of a rectangle with length 20 and width 18? 360
+Ratio 3:4, total 23. First part: 9
+Triangle area: base 18, height 20. Answer: 180
+What is the area of a rectangle with length 18 and width 19? 342
+What is the circumference of a circle with radius 9? 56.55
+Calculate 39% of 327. Answer: 127
+What is the circumference of a circle with radius 13? 81.68
+What is x in 3x + 11 = 14? 1
+What is the GCD of 21 and 47? 1
+Divide 65 by 2. Answer: 32 remainder 1
+Is 41 prime? True
+What is 1/9 + 6/9? 63/81
+Calculate 38% of 453. Answer: 172
+If 8x + 18 = 50, then x = 4
+What is 6/4 + 8/8? 80/32
+What is the derivative of 4x^2 + 2x^3? 8x + 6x^2
+What is 33 ÷ 8? 4 R 1
+What is the circumference of a circle with radius 3? 18.85
+What is the GCD of 43 and 37? 1
+Solve 3x + 5 = 29. Answer: x = 8
+If 3x + 5 = 20, then x = 5
+d/dx(1 + 2x^2) = 4x
+Divide 36 by 10. Answer: 3 remainder 6
+What is 1/3 + 3/5? 14/15
+Find x: 5x + 3y = 32, 4x + 5y = 36. x = 4
+What is the circumference of a circle with radius 4? 25.13
+What is 55 ÷ 3? 18 R 1
+What is x in 6x + 14 = 38? 4
+What is the circumference of a circle with radius 6? 37.7
+Differentiate 5x^4. Answer: 20x^3
+Car speed: 53 mph, time: 5 hours. Distance: 265 miles
+Solve 5x + 15 = 50. Answer: x = 7
+Calculate 13% of 198. Answer: 25
+What is x in 2x + 15 = 27? 6
+Car speed: 50 mph, time: 6 hours. Distance: 300 miles
+What is the derivative of 1x + 4x^3 + 3x^3? 1 + 12x^2 + 9x^2
+If 6x + 19 = 43, then x = 4
+Add 2/5 and 4/7. Answer: 34/35
+What is x in 4x + 14 = 26? 3
+What is 26 ÷ 2? 13 R 0
+Is 4 prime? False
+What is 20 + 17 × 12? 224
+If 4x + 11 = 47, then x = 9
+Find the area of a circle radius 6. Answer: 113.1
+Add 8/3 and 6/5. Answer: 58/15
+Solve 2x + 5y = 22 and 3x + 4y = 19 for x. Answer: x = 1
+If 9x + 3 = 12, then x = 1
+Ratio 5:3, total 24. First part: 15
+Is 11 prime? True
+What is 86 ÷ 5? 17 R 1
+Divide 50 by 9. Answer: 5 remainder 5
+Calculate 24% of 265. Answer: 63
+Add 1/7 and 6/10. Answer: 52/70
+Is 28 prime? False
+Triangle area: base 5, height 12. Answer: 30
+Solve 4x + 5y = 36 and 4x + 2y = 24 for x. Answer: x = 4
+What is 81 ÷ 5? 16 R 1
+Find the area of a circle radius 11. Answer: 380.13
+Add 6/6 and 6/10. Answer: 96/60
+What is 2/5 + 4/7? 34/35
+Is 9 prime? False
+Solve 3x + 4y = 28 and 2x + 5y = 28 for x. Answer: x = 4
+What is 18 × 17 + 16? 322
+What are the factors of 13? [1, 13]
+What is the area of a triangle with base 9 and height 19? 85
+What is the GCD of 35 and 42? 7
+What is the area of a triangle with base 12 and height 12? 72
+What is 39% of 485? 189
+What is the area of a rectangle with length 12 and width 12? 144
+What is 95 ÷ 4? 23 R 3
+Triangle area: base 16, height 12. Answer: 96
+If 8x + 2 = 18, then x = 2
+Find GCD(50, 20). Answer: 10
+What is 8/8 + 3/4? 56/32
+Compute 16 × 19 + 4. 308
+Solve 7x + 13 = 76. Answer: x = 9
+Divide 93 by 5. Answer: 18 remainder 3
+What is the derivative of 5x^1? 5
+What is the derivative of 2x^3 + 5? 6x^2
+Solve 8x + 2 = 42. Answer: x = 5
+If 10x + 13 = 43, then x = 3
+Add 5/5 and 2/6. Answer: 40/30
+What is 22% of 159? 34
