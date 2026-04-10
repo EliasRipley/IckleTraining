@@ -1,0 +1,208 @@
+Basic Addition Facts
+2 + 2 = 4
+3 + 3 = 6
+4 + 4 = 8
+5 + 5 = 10
+6 + 6 = 12
+7 + 7 = 14
+8 + 8 = 16
+9 + 9 = 18
+10 + 10 = 20
+
+2 + 3 = 5
+2 + 4 = 6
+2 + 5 = 7
+2 + 6 = 8
+2 + 7 = 9
+2 + 8 = 10
+2 + 9 = 11
+
+3 + 4 = 7
+3 + 5 = 8
+3 + 6 = 9
+3 + 7 = 10
+3 + 8 = 11
+3 + 9 = 12
+
+4 + 5 = 9
+4 + 6 = 10
+4 + 7 = 11
+4 + 8 = 12
+4 + 9 = 13
+
+5 + 6 = 11
+5 + 7 = 12
+5 + 8 = 13
+5 + 9 = 14
+
+6 + 7 = 13
+6 + 8 = 14
+6 + 9 = 15
+
+7 + 8 = 15
+7 + 9 = 16
+
+8 + 9 = 17
+
+Basic Subtraction Facts
+10 - 2 = 8
+10 - 3 = 7
+10 - 4 = 6
+10 - 5 = 5
+10 - 6 = 4
+10 - 7 = 3
+10 - 8 = 2
+10 - 9 = 1
+
+9 - 2 = 7
+9 - 3 = 6
+9 - 4 = 5
+9 - 5 = 4
+9 - 6 = 3
+9 - 7 = 2
+9 - 8 = 1
+
+8 - 2 = 6
+8 - 3 = 5
+8 - 4 = 4
+8 - 5 = 3
+8 - 6 = 2
+8 - 7 = 1
+
+7 - 2 = 5
+7 - 3 = 4
+7 - 4 = 3
+7 - 5 = 2
+7 - 6 = 1
+
+6 - 2 = 4
+6 - 3 = 3
+6 - 4 = 2
+6 - 5 = 1
+
+5 - 2 = 3
+5 - 3 = 2
+5 - 4 = 1
+
+4 - 2 = 2
+4 - 3 = 1
+
+Basic Multiplication Facts
+2 × 2 = 4
+2 × 3 = 6
+2 × 4 = 8
+2 × 5 = 10
+2 × 6 = 12
+2 × 7 = 14
+2 × 8 = 16
+2 × 9 = 18
+2 × 10 = 20
+
+3 × 2 = 6
+3 × 3 = 9
+3 × 4 = 12
+3 × 5 = 15
+3 × 6 = 18
+3 × 7 = 21
+3 × 8 = 24
+3 × 9 = 27
+3 × 10 = 30
+
+4 × 2 = 8
+4 × 3 = 12
+4 × 4 = 16
+4 × 5 = 20
+4 × 6 = 24
+4 × 7 = 28
+4 × 8 = 32
+4 × 9 = 36
+4 × 10 = 40
+
+5 × 2 = 10
+5 × 3 = 15
+5 × 4 = 20
+5 × 5 = 25
+5 × 6 = 30
+5 × 7 = 35
+5 × 8 = 40
+5 × 9 = 45
+5 × 10 = 50
+
+Basic Division Facts
+10 ÷ 2 = 5
+12 ÷ 2 = 6
+14 ÷ 2 = 7
+16 ÷ 2 = 8
+18 ÷ 2 = 9
+20 ÷ 2 = 10
+
+9 ÷ 3 = 3
+12 ÷ 3 = 4
+15 ÷ 3 = 5
+18 ÷ 3 = 6
+21 ÷ 3 = 7
+24 ÷ 3 = 8
+27 ÷ 3 = 9
+30 ÷ 3 = 10
+
+8 ÷ 4 = 2
+12 ÷ 4 = 3
+16 ÷ 4 = 4
+20 ÷ 4 = 5
+24 ÷ 4 = 6
+28 ÷ 4 = 7
+32 ÷ 4 = 8
+36 ÷ 4 = 9
+40 ÷ 4 = 10
+
+Question and Answer Format
+What is 2 + 2? 4
+What is 3 + 3? 6
+What is 4 + 4? 8
+What is 5 + 5? 10
+What is 6 + 6? 12
+What is 7 + 7? 14
+What is 8 + 8? 16
+What is 9 + 9? 18
+What is 10 + 10? 20
+
+What is 10 - 2? 8
+What is 10 - 3? 7
+What is 10 - 4? 6
+What is 10 - 5? 5
+What is 10 - 6? 4
+What is 10 - 7? 3
+What is 10 - 8? 2
+What is 10 - 9? 1
+
+What is 2 × 5? 10
+What is 3 × 5? 15
+What is 4 × 5? 20
+What is 5 × 5? 25
+What is 6 × 5? 30
+What is 7 × 5? 35
+What is 8 × 5? 40
+What is 9 × 5? 45
+What is 10 × 5? 50
+
+What is 20 ÷ 2? 10
+What is 20 ÷ 4? 5
+What is 20 ÷ 5? 4
+What is 20 ÷ 10? 2
+
+What is 30 ÷ 3? 10
+What is 30 ÷ 5? 6
+What is 30 ÷ 6? 5
+What is 30 ÷ 10? 3
+
+What is 40 ÷ 4? 10
+What is 40 ÷ 5? 8
+What is 40 ÷ 8? 5
+What is 40 ÷ 10? 4
+
+Simple Word Problems
+I have 3 apples and get 2 more. How many apples do I have? 5
+I have 5 cookies and eat 2. How many cookies do I have left? 3
+I have 4 boxes with 3 toys each. How many toys do I have? 12
+I have 15 candies and share them equally among 3 friends. How many candies does each friend get? 5
+I have 8 pencils and give away half. How many pencils do I have left? 4
