@@ -1,0 +1,159 @@
+Web Structure Training for Ickle Language Model
+
+HTML ELEMENTS AND STRUCTURE
+<h1>Main Title</h1> - This is the most important heading on the page
+<h2>Subheading</h2> - This is a secondary heading
+<h3>Section Title</h3> - This is a tertiary heading
+<p>This is a paragraph of text content.</p> - Paragraph contains main content
+<a href="https://example.com">Link Text</a> - This is a hyperlink to another page
+<img src="image.jpg" alt="Description"> - This is an image with description
+<div class="container">Content wrapper</div> - This is a container for content
+<span class="highlight">Important text</span> - This is inline emphasized text
+<ul><li>Item 1</li><li>Item 2</li></ul> - This is an unordered list
+<ol><li>First</li><li>Second</li></ol> - This is an ordered list
+<table><tr><td>Cell</td></tr></table> - This is a table with data
+
+CSS SELECTORS AND STYLING
+.class-name - This selects elements by class name
+#id-name - This selects elements by ID
+element-name - This selects elements by tag name
+.parent .child - This selects child elements
+background-color: #ffffff - This sets the background color
+color: #000000 - This sets the text color
+font-size: 16px - This sets the text size
+margin: 10px - This sets the outer spacing
+padding: 5px - This sets the inner spacing
+display: block - This makes element take full width
+display: inline - This makes element flow with text
+display: none - This hides the element completely
+
+JAVASCRIPT PATTERNS
+document.getElementById('id') - This gets an element by ID
+document.querySelector('.class') - This gets an element by selector
+element.textContent - This gets the text content
+element.innerHTML - This gets the HTML content
+addEventListener('click', function) - This adds click event handler
+fetch(url) - This makes HTTP request to URL
+console.log(message) - This outputs debug message
+window.onload - This runs when page loads
+setTimeout(function, delay) - This runs after delay
+
+COMMON WEBSITE PATTERNS
+Navigation menu: <nav><ul><li><a href="/">Home</a></li></ul></nav>
+Header section: <header><h1>Site Title</h1></header>
+Main content: <main><article><h2>Article Title</h2><p>Content</p></article></main>
+Sidebar: <aside><div class="widget">Widget content</div></aside>
+Footer: <footer><p>Copyright information</p></footer>
+Search box: <input type="search" placeholder="Search...">
+Button: <button type="submit">Submit</button>
+Form: <form><input type="text" name="field"></form>
+
+NEWS WEBSITE STRUCTURES
+News article: <article class="news-article"><h1>Headline</h1><p>Summary</p></article>
+Headline patterns: <h1>, <h2>, <h3> with class "headline", "title", "story-title"
+Byline patterns: <span class="author">By Author Name</span>
+Date patterns: <time datetime="2024-01-01">January 1, 2024</time>
+Category patterns: <span class="category">World</span>
+Summary patterns: <p class="summary">Article summary text</p>
+Content patterns: <div class="content">Full article text</div>
+
+ECOMMERCE STRUCTURES
+Product title: <h1 class="product-title">Product Name</h1>
+Price: <span class="price">$19.99</span>
+Description: <div class="description">Product description</div>
+Add to cart: <button class="add-to-cart">Add to Cart</button>
+Reviews: <div class="review">Review text</div>
+Rating: <span class="rating">4.5 stars</span>
+
+BLOG STRUCTURES
+Post title: <h1 class="post-title">Blog Post Title</h1>
+Meta info: <div class="meta">Posted on Date by Author</div>
+Content: <div class="post-content">Blog post content</div>
+Comments: <div class="comments">Comment section</div>
+Tags: <div class="tags"><span class="tag">tag1</span></div>
+
+SOCIAL MEDIA STRUCTURES
+Post: <div class="post">Post content</div>
+Author: <span class="author">Author Name</span>
+Timestamp: <time class="timestamp">2 hours ago</time>
+Likes: <span class="likes">123 likes</span>
+Share button: <button class="share">Share</button>
+
+DYNAMIC CONTENT LOADING
+AJAX requests: fetch('/api/data') - This loads data dynamically
+JSON responses: {"title": "Title", "content": "Content"} - This is structured data
+Client-side rendering: React, Vue, Angular components
+Lazy loading: Images load when scrolled into view
+Infinite scroll: More content loads when reaching bottom
+
+WEB SCRAPING TECHNIQUES
+Text extraction: element.textContent.trim() - This gets clean text
+Link extraction: element.href - This gets URL
+Image extraction: element.src - This gets image URL
+Multiple elements: document.querySelectorAll('.items') - This gets all matching elements
+Wait for content: waitForSelector('.content') - This waits for element to appear
+
+CONTENT ANALYSIS PATTERNS
+Main content usually in: <main>, <article>, .content, .post-content
+Headlines usually in: <h1>, <h2>, .title, .headline
+Navigation usually in: <nav>, .nav, .menu
+Sidebar usually in: <aside>, .sidebar
+Footer usually in: <footer>, .footer
+
+TEXT PROCESSING FOR WEB CONTENT
+Remove HTML tags: text.replace(/<[^>]*>/g, '') - This strips HTML
+Decode HTML entities: &amp; becomes &, &lt; becomes <, &gt; becomes >
+Normalize whitespace: text.replace(/\s+/g, ' ').trim() - This cleans spacing
+Extract URLs: text.match(/https?:\/\/[^\s]+/g) - This finds links
+Extract emails: text.match(/[^\s@]+@[^\s@]+\.[^\s@]+/g) - This finds emails
+
+RESPONSIVE DESIGN PATTERNS
+Mobile-first: @media (min-width: 768px) - This applies styles for larger screens
+Flexbox: display: flex - This creates flexible layouts
+Grid: display: grid - This creates grid layouts
+Viewport meta: <meta name="viewport" content="width=device-width"> - This optimizes for mobile
+
+ACCESSIBILITY PATTERNS
+ARIA labels: aria-label="Description" - This describes elements
+Semantic HTML: <header>, <main>, <nav>, <footer> - This gives meaning
+Alt text: alt="Description" - This describes images
+Roles: role="navigation" - This defines element purpose
+
+COMMON CSS CLASSES TO RECOGNIZE
+.content, .main-content, .article-content - Main content areas
+.title, .headline, .story-title - Headlines and titles
+.nav, .navigation, .menu - Navigation elements
+.sidebar, .widget - Sidebar content
+.footer, .copyright - Footer information
+.author, .byline - Author information
+.date, .time, .timestamp - Date and time
+.category, .tag, .label - Categories and tags
+.button, .btn - Clickable buttons
+.link, .anchor - Links
+
+JAVASCRIPT FRAMEWORK PATTERNS
+React: className="component" - This uses CSS classes
+Vue: :class="{active: isActive}" - This uses conditional classes
+Angular: [ngClass]="{'active': isActive}" - This uses binding
+jQuery: $('.selector').text() - This gets text content
+Vanilla JS: document.querySelector('.selector').textContent - This gets text
+
+PERFORMANCE OPTIMIZATION PATTERNS
+Lazy loading: loading="lazy" - This delays image loading
+Minification: Minified CSS/JS removes whitespace
+Caching: Cache-Control headers - This stores content locally
+CDN: Content Delivery Network - This serves from nearby servers
+Compression: gzip, brotli - This reduces file sizes
+
+SECURITY PATTERNS
+HTTPS: https:// protocol - This encrypts communication
+CSP: Content Security Policy - This prevents XSS
+Sanitization: Text cleaning - This removes malicious content
+Same-origin: Browser security policy - This restricts requests
+
+MODERN WEB PATTERNS
+Progressive Web App: Service workers, offline support
+Single Page App: Dynamic content without page reloads
+API-first: Data via REST/GraphQL APIs
+Component-based: Reusable UI components
+State management: Redux, Vuex for application state
